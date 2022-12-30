@@ -90,7 +90,7 @@ pdf版では第1章・第2章の資質・能力の先頭にPR-01-02、GE-02-01-0
 
 ### 別表(第1章・第2章) 
 
-第1章・第2章では、内容の一部を別表として切り出しています。別表は[layer3.csv](2022/ja/outcomes/layer3.csv)もしくは[layer3.csv](2022/ja/outcomes/layer3.csv)の中で[@TBL:TBLxxxx]という形式で参照されています。別表のデータは[2022/ja/tables](2022/ja/tables)に格納されています。
+第1章・第2章では、内容の一部を別表として切り出しています。別表は[layer3.csv](2022/ja/outcomes/layer3.csv)もしくは[layer4.csv](2022/ja/outcomes/layer4.csv)の中で[@TBL:TBLxxxx]という形式で参照されています。別表のデータは[2022/ja/tables](2022/ja/tables)に格納されています。
 
 別表の一覧とそれぞれの表自体についてのデータは上記フォルダの[index.csv](2022/ja/tables/index.csv)の中で以下のように表現されています
 
@@ -98,7 +98,7 @@ pdf版では第1章・第2章の資質・能力の先頭にPR-01-02、GE-02-01-0
 |-|-|
 | id | 表自体の[id](#インデックスとid) |
 | index |  表自体の[インデックス](#インデックスとid)(pdf版には記載なし) |
-| name | 表の名前 |
+| item | 表の名前 |
 | file | 表のデータが格納されているファイル名 |
 | legend | 表の解説文 |
 | number | 表の番号 |
