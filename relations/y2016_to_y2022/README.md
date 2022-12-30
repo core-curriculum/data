@@ -6,7 +6,7 @@
 |-|-|
 | [y2016_layer5_to_y2022_layer4.csv](./y2016_layer5_to_y2022_layer4.csv) | 2016年版の第5層と2022年版の第4層の対応 |
 | [y2016_layer5_to_y2022_tables.csv](./y2016_layer5_to_y2022_tables.csv) | 2016年版の第5層と2022年版の別表の対応 |
-| [y2016_layer5_to_y2022_other.csv](./y2016_layer5_to_y2022_layer4.csv) | 2016年版の第5層と2022年版の他の項目(臨床実習ガイドラインや第1-3層など)との対応 |
+| [y2016_layer5_to_y2022_other.csv](./y2016_layer5_to_y2022_layer4.csv) | 2016年版の第5層と2022年版の他の項目(臨床実習ガイドラインや第1-3層など)との対応(id, indexがない項目もあります) |
 
 
 
