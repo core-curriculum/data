@@ -1,4 +1,4 @@
-﻿id,index,name,file,legend,number,columns,main
+﻿id,index,item,file,legend,number,columns,main
 JuFT2ss,TBL-01-00,Diseases,TBL0100.csv,,1,"system:Organs,category:Category,item:Diseases,basic:Basic",Item
 JuFT2sw,TBL-02-01,Hematology/hematopoietic and lymphatic systems,TBL0201.csv,,2-1,"category:Classification,item:Item",Item
 JuFT2s4,TBL-02-02,Nervous system,TBL0202.csv,,2-2,"category:Classification,item:Item",Item
