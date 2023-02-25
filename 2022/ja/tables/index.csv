@@ -1,5 +1,5 @@
 ﻿id,index,item,file,legend,number,columns,main
-JuFT2ss,TBL-01-00,疾患,TBL0100.csv,,1,"system:臓器,category:カテゴリ,item:疾患,basic:基本",Item
+JuFT2ss,TBL-01-00,疾患,TBL0100.csv,,1,"system:臓器,category:カテゴリ,item:疾患,core:基本",Item
 JuFT2sw,TBL-02-01,血液・造血器・リンパ系,TBL0201.csv,,2-1,"category:分類,item:項目名",Item
 JuFT2s4,TBL-02-02,神経系,TBL0202.csv,,2-2,"category:分類,item:項目名",Item
 JuFT2s8,TBL-02-03,皮膚系,TBL0203.csv,,2-3,"category:分類,item:項目名",Item
