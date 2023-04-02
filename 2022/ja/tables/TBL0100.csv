@@ -1,4 +1,4 @@
-﻿index,id,system,category,item,basic
+﻿index,id,system,category,item,core
 TBL-01-00-001,JlvnlXM,血液・造血器・リンパ系,貧血,鉄欠乏性貧血,●
 TBL-01-00-002,JlvnlYA,血液・造血器・リンパ系,貧血,出血性貧血,
 TBL-01-00-003,JlvnlYE,血液・造血器・リンパ系,貧血,腎性貧血,
@@ -98,9 +98,9 @@ TBL-01-00-096,JlvnlkE,皮膚系,皮膚感染症,単純ヘルペス,●
 TBL-01-00-097,JlvnlkM,皮膚系,皮膚感染症,帯状疱疹,●
 TBL-01-00-098,JlvnlkQ,皮膚系,皮膚感染症,尋常性疣贅,
 TBL-01-00-099,JlvnlkY,皮膚系,皮膚感染症,伝染性軟属腫,
-TBL-01-00-100,Jlvnlkc,皮膚系,皮膚感染症,麻疹,
-TBL-01-00-101,Jlvnlkk,皮膚系,皮膚感染症,風疹,
-TBL-01-00-102,Jlvnlko,皮膚系,皮膚感染症,水痘,
+TBL-01-00-100,Jlvnlkc,皮膚系,皮膚感染症,麻疹,●
+TBL-01-00-101,Jlvnlkk,皮膚系,皮膚感染症,風疹,●
+TBL-01-00-102,Jlvnlko,皮膚系,皮膚感染症,水痘,●
 TBL-01-00-103,Jlvnlkw,皮膚系,皮膚感染症,伝染性紅斑,
 TBL-01-00-104,Jlvnlk0,皮膚系,皮膚感染症,手足口病,
 TBL-01-00-105,JlvnllE,皮膚系,母斑性皮膚疾患,母斑,
