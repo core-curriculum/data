@@ -1,0 +1,30 @@
+﻿index,id,item
+TBL-03-00-001,JuqS028,"Check the vital signs (body temperature, heart rate, blood pressure, respiratory rate, oxygen saturation)"
+TBL-03-00-002,JkxirtA,"Examination of head (face, hair, scalp, and skull)"
+TBL-03-00-003,JkxirtE,"Examination of eye (visual field, pupil, light reflex eye movement, proptosis, conjunctiva)"
+TBL-03-00-004,JkxirtI,Examination of ear (assessment of the pinna and hearing)
+TBL-03-00-005,JkxirtM,Examination of the external auditory canal and eardrum using an otoscope
+TBL-03-00-006,JkxirtQ,"Examination of the lips, oral cavity, pharynx, and tonsils"
+TBL-03-00-007,JkxirtU,Examination of the sinuses
+TBL-03-00-008,JkxirtY,Observation of the anterior nasal cavity using a rhinoscope
+TBL-03-00-009,Jkxirtc,"Examination of thyroid gland, cervical vessels, trachea, and salivary glands"
+TBL-03-00-010,Jkxirtg,Examination of the lymph nodes of the head and neck
+TBL-03-00-011,Jkxirtk,"Inspection, palpation, and percussion of the chest"
+TBL-03-00-012,Jkxirto,Auscultation of breath sounds and added sounds
+TBL-03-00-013,Jkxirts,Auscultation of heart sounds and murmurs
+TBL-03-00-014,Jkxirtw,"Inspection, auscultation (bowel sounds and bruits), percussion, and palpation of the abdomen"
+TBL-03-00-015,JkxiruE,Identification of pain on percussion over the spine
+TBL-03-00-016,JkxiruI,Digital rectal examination (including prostate examination)
+TBL-03-00-017,JkxiruM,Breast examination
+TBL-03-00-018,JkxiruQ,Assessment of level of consciousness
+TBL-03-00-019,JkxiruU,Examination of the cranial nerves
+TBL-03-00-020,Jm6K67M,Examination of the fundi
+TBL-03-00-021,JkxiruY,Examination of tendon reflexes
+TBL-03-00-022,Jkxiruc,Examination of cerebellar function and the motor system
+TBL-03-00-023,Jkxirug,"Examination of the sensory system (pain, temperature, touch, and deep sensation)"
+TBL-03-00-024,Jkxiruk,Identification of signs of meningeal irritation
+TBL-03-00-025,Jkxiruo,Examination of limbs and spine (kyphosis and pain)
+TBL-03-00-026,Jkxiruw,"Examination of joints (range of motion, swelling, pain, and deformity)"
+TBL-03-00-027,Jkxiru0,Musculoskeletal examination (manual muscle strength testing)
+TBL-03-00-028,Jm6K67U,Gynecological examination (bimanual examination and use of Cusco’s speculum)
+TBL-03-00-029,JuqS23Q,Comprehensive geriatric assessment (CGA)

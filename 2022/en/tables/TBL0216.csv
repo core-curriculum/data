@@ -1,0 +1,20 @@
+﻿index,id,category,item
+TBL-02-16-001,JlAKpy8,Symptoms,Altered mental status
+TBL-02-16-002,JlAKpy0,Symptoms,Anxiety/depression
+TBL-02-16-003,JlAKpy4,Symptoms,Cognitive dysfunction
+TBL-02-16-004,JlAKpzA,Symptoms,Insomnia
+TBL-02-16-005,JlAKpzE,Symptoms,Hallucination/delusions
+TBL-02-16-006,JlAKpzI,Symptoms,Hypochondria
+TBL-02-16-007,JlAKpzM,Methods of examination,Questionnaire/validated scales
+TBL-02-16-008,JlAKpzU,Methods of examination,Brief psychiatric rating scale (BPRS)
+TBL-02-16-009,JlAKpzY,Methods of examination,Hamilton depression rating scale
+TBL-02-16-010,JlAKpzc,Methods of examination,Beck depression inventory
+TBL-02-16-011,JlAKpzg,Methods of examination,State-trait anxiety inventory (STAI)
+TBL-02-16-012,JlAKpzk,Methods of examination,Mini-mental state examination (MMSE)
+TBL-02-16-013,JlAKpzo,Methods of examination,"Hasegawa’s dementia scale, revised (HDS-R)"
+TBL-02-16-014,JuX-PEU,Methods of examination,Electroencephalogram
+TBL-02-16-015,JuX-PEg,Methods of examination,"Diagnostic imaging of brain (CT, MRI, SPECT, etc.)"
+TBL-02-16-016,JuX-PEk,Specific therapies,Psychotherapy
+TBL-02-16-017,JuX-PEs,Specific therapies,Psychopharmacotherapy
+TBL-02-16-018,JlAKpz0,Specific therapies,"Application of the Act on Mental Health and Welfare for the Mentally Disabled (May 1, 1950), and the Act on Medical Care and Treatment for Persons Who Have Caused Serious Cases Under the Condition of Insanity (July 10, 2003)"
+TBL-02-16-019,JlAKpz4,Specific therapies,Liaison psychiatry

@@ -1,0 +1,126 @@
+﻿index,id,item,parent
+PR-01-01,JnIA6vg,Honesty and integrity,JnGUEbM
+PR-01-02,JnIA6vk,Reflection,JnGUEbM
+PR-02-01,JnIA6vs,Compassion,JnGUEbQ
+PR-02-02,JnIA6vw,Understanding self and others,JnGUEbQ
+PR-02-03,JnIA6v4,Dignity and courtesy,JnGUEbQ
+PR-03-01,JnIA6wE,Self-cultivation,JnGUEbg
+PR-04-01,JnIA6wI,Medical ethics,JnGUEbk
+GE-01-01,JnICKV8,Transdisciplinary care,JnGUR4c
+GE-01-02,JnICKWA,"Comprehensive perspectives on biological, psychological, and social issues",JnGUR4c
+GE-01-03,JnICKWI,Patient-centered medicine,JnGUR4c
+GE-01-04,JnICKWM,Evidence-based medicine (EBM),JnGUR4c
+GE-01-05,JnICKWU,Behavioral science,JnGUR4c
+GE-01-06,JnICKWY,Palliative care,JnGUR4c
+GE-02-01,JnICKWg,Basic concepts in primary care,JnGUR4k
+GE-02-02,JnICKWk,Primary care in the community,JnGUR4k
+GE-02-03,JnICKWo,Provision of primary care according to medical resources,JnGUR4k
+GE-02-04,JnICKWs,Primary care at home,JnGUR4k
+GE-03-01,JnICKW0,Life processes,JnGUR4s
+GE-03-02,JnICKW4,Childhood in general,JnGUR4s
+GE-03-03,JnICKXA,"Fetal, neonatal, and infant stages",JnGUR4s
+GE-03-04,JnICKXE,"School-age, adolescence, young adulthood, and adulthood",JnGUR4s
+GE-03-05,JnICKXM,Geriatric stage,JnGUR4s
+GE-03-06,JnICKXQ,End of life,JnGUR4s
+GE-04-01,JnICKXY,"Health in medical, cultural, and social contexts",JnGUR4w
+GE-04-02,JnICKXc,Social sciences,JnGUR4w
+LL-01-01,JnIBYXQ,Lifelong learning in practice,JnGUHWw
+LL-01-02,JnIBYXY,Career development,JnGUHWw
+LL-02-01,JnIBYXM,Medical education in practice,JnGUHW0
+RE-01-01,JnIAX18,Proactive attitude,JnGT6dY
+RE-01-02,JnIAX2I,Inquisitiveness,JnGT6dY
+RE-02-01,JnIAX2M,Medicine and healthcare,JnGT6dc
+RE-02-02,JnIAX2U,Reading and understanding academic papers,JnGT6dc
+RE-03-01,JnIAX2Y,Research questions,JnGT6dk
+RE-03-02,JnIAX2g,Research plan,JnGT6dk
+RE-03-03,JnIAX2o,Research methods,JnGT6dk
+RE-03-04,JnIAX2s,Research results,JnGT6dk
+RE-04-01,JnIAX20,Research presentations,JnGT6do
+RE-05-01,JnIAX24,Appropriate research conduct,JnGT6dw
+RE-05-02,JnIAX3A,Protection of research subjects,JnGT6dw
+PS-01-01,JnIAssw,Science of biological phenomena,JnGT9qY
+PS-01-02,JnIAss4,Composition and function of the human body,JnGT9qY
+PS-01-03,JnIAss8,Individual reactions,JnGT9qY
+PS-01-04,JnIAstE,Etiology and pathogenesis,JnGT9qY
+PS-02-01,JnIAstI,General introduction,JnGT9qc
+PS-02-02,JnIAstQ,"Hematologic, hematopoietic, and lymphatic systems ([@tbl:TBL0201])",JnGT9qc
+PS-02-03,JnIAstY,Nervous system ([@tbl:TBL0202]),JnGT9qc
+PS-02-04,JnIAstc,Dermatological system ([@tbl:TBL0203]),JnGT9qc
+PS-02-05,JnIAstk,Musculoskeletal system ([@tbl:TBL0204]),JnGT9qc
+PS-02-06,JnIAsto,Cardiovascular system ([@tbl:TBL0205]),JnGT9qc
+PS-02-07,JnIAstw,Respiratory system ([@tbl:TBL0206]),JnGT9qc
+PS-02-08,JnIAst0,Digestive system ([@tbl:TBL0207]),JnGT9qc
+PS-02-09,JnIAst8,Renal and urinary system (including fluid and electrolyte balance) ([@tbl:TBL0208]),JnGT9qc
+PS-02-10,JnIAsuA,Reproductive system ([@tbl:TBL0209]),JnGT9qc
+PS-02-11,JnIAsuI,Pregnancy and delivery ([@tbl:TBL0210]),JnGT9qc
+PS-02-12,JnIAsuM,Pediatrics ([@tbl:TBL0211]),JnGT9qc
+PS-02-13,JnIAsuU,Breast ([@tbl:TBL0212]),JnGT9qc
+PS-02-14,JnIAsuc,"Endocrine, nutritional, and metabolic systems ([@tbl:TBL0213])",JnGT9qc
+PS-02-15,JnIAsug,Ocular and visual system ([@tbl:TBL0214]),JnGT9qc
+PS-02-16,JnIAsuo,"Ear, nose, throat, and oral cavity ([@tbl:TBL0215])",JnGT9qc
+PS-02-17,JnIAsus,Psychiatry ([@tbl:TBL0216]),JnGT9qc
+PS-03-01,JnIAsu0,Genetic and genomic medicine,JnGT9qk
+PS-03-02,JnIAsu4,Immunology and allergy,JnGT9qk
+PS-03-03,JnIAsvA,Infectious diseases ([@tbl:TBL0218]),JnGT9qk
+PS-03-04,JnIAsvE,Cancers and neoplastic diseases,JnGT9qk
+PS-03-05,JnIAsvM,Emergency medicine and intensive care ([@tbl:TBL0220]),JnGT9qk
+PS-03-06,JnIAsvU,"Biological effects and appropriate use of radiation, and radiation hazards",JnGT9qk
+IT-01-01,JnIBpxU,"Preparation for dealing with information, science, and technology",JnGUMDo
+IT-01-02,JnIBpxY,Ethics and rules for using information science and technology,JnGUMDo
+IT-02-01,JnIBpxc,Medical care using information science and technology,JnGUMDw
+IT-02-02,JnIBpxg,Knowledge of advanced information science and technology,JnGUMDw
+IT-03-01,JnIBpxk,Communication skills using information science and technology,JnGUMD0
+IT-03-02,JnIBpxs,Learning skills using information science and technology,JnGUMD0
+CS-01-01,JnICVTo,Medical interview,JnGUW2g
+CS-01-02,JnICVTs,Physical findings,JnGUW2g
+CS-02-01,JnICVT0,Medical records,JnGUW2o
+CS-02-02,JnICVT8,Clinical reasoning,JnGUW2o
+CS-02-03,JnICVUA,Medical examination (planning and analytical evaluation),JnGUW2o
+CS-02-04,JnICVUI,Treatment (planning and progress evaluation),JnGUW2o
+CS-02-05,JnICVUM,Educational plan,JnGUW2o
+CS-03-01,JnICVUU,Investigation techniques,JnGUW2s
+CS-03-02,JnICVUY,Treatment techniques,JnGUW2s
+CS-03-03,JnICVUg,Emergency and initial response,JnGUW2s
+CS-03-04,JnICVUk,Documentation,JnGUW2s
+CS-03-05,JnICVUo,Collaboration for patient care,JnGUW2s
+CS-03-06,JnICVUs,Clinical conferences,JnGUW2s
+CS-04-01,JnICVU0,Reflection conferences,JnGUW20
+CS-05-01,JnICVU4,Quality improvement of medical care,JnGUW24
+CS-05-02,JnICVVA,Health management of medical professionals,JnGUW24
+CS-05-03,JnICVVE,Safety management system,JnGUW24
+CS-05-04,JnICVVM,Infection control,JnGUW24
+CS-05-05,JnICVVQ,Consideration and promotion of patient safety,JnGUW24
+CS-05-06,JnICVVY,Patient safety practices,JnGUW24
+CM-01-01,JnICfjk,Appropriate communication skills with patients and their family members,JnGUZAo
+CM-01-02,JnICfjs,Respect for the patient’s situation and consideration of their suffering,JnGUZAo
+CM-02-01,JnICfjw,Explaining to the patient in simple language,JnGUZAw
+CM-02-02,JnICfj4,Encouraging patients to change their behavior,JnGUZAw
+CM-02-03,JnICfj8,Supporting patient decision-making,JnGUZAw
+CM-03-01,JnICfkE,Identification of patient and family issues and acquisition of necessary information,JnGUZA0
+CM-03-02,JnICfkI,Consideration of the psychological and social backgrounds of patients and their families,JnGUZA0
+IP-01-01,JnIB3j0,Patient-centered health and welfare,JnGUPik
+IP-01-02,JnIB3kA,Interprofessional communication,JnGUPik
+IP-01-03,JnIB3kE,Referral and consultation between physicians,JnGUPik
+IP-02-01,JnIB3kM,Professional roles,JnGUPio
+IP-02-02,JnIB3kQ,Relationship management,JnGUPio
+IP-02-03,JnIB3kY,Reflection on one’s own profession,JnGUPio
+IP-02-04,JnIB3kc,Understanding of other professions,JnGUPio
+SO-01-01,JnH_3oE,Public health,JnGTvDo
+SO-01-02,JnH_3oM,"Social insurance, public assistance, and social welfare",JnGTvDo
+SO-01-03,JnH_3oU,Community health,JnGTvDo
+SO-01-04,JnH_3oY,Occupational and environmental health,JnGTvDo
+SO-01-05,JnH_3og,Health crisis management,JnGTvDo
+SO-02-01,JnH_3ok,Health statistics,JnGTvDw
+SO-02-02,JnH_3os,Epidemiology,JnGTvDw
+SO-02-03,JnH_3ow,Data analysis and statistical methods,JnGTvDw
+SO-03-01,JnH_3o4,Death and the law,JnGTvD0
+SO-04-01,JnH_3o8,Health and medical care,JnGTvD8
+SO-04-02,JnH_3pE,Gender and medical care,JnGTvD8
+SO-04-03,JnH_3pM,Climate change and medical care,JnGTvD8
+SO-04-04,JnH_3pQ,"Philosophy, ethics, and medical care",JnGTvD8
+SO-04-05,JnH_3pY,History and medicine/medical care,JnGTvD8
+SO-04-06,JnH_3pc,Health economics,JnGTvD8
+SO-04-07,JtPHwC4,Social justice,JnGTvD8
+SO-05-01,JnH_3pk,Role of the medical professions and medical care system in Japan,JnGTvEA
+SO-05-02,JnH_3po,Roles of global health and medical care systems,JnGTvEA
+SO-06-01,JnH_3pw,Relationship between social sciences and medicine,JnGTvEI

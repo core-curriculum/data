@@ -1,0 +1,693 @@
+﻿index,id,system,category,item,core
+TBL-01-00-001,JlvnlXM,"Hematologic, hematopoietic, and lymphatic systems",Anemia,Iron-deficiency anemia,●
+TBL-01-00-002,JlvnlYA,"Hematologic, hematopoietic, and lymphatic systems",Anemia,Hemorrhagic anemia,
+TBL-01-00-003,JlvnlYE,"Hematologic, hematopoietic, and lymphatic systems",Anemia,Anemia in chronic kidney disease,
+TBL-01-00-004,JuyvuDU,"Hematologic, hematopoietic, and lymphatic systems",Anemia,Secondary anemia,
+TBL-01-00-005,JlvnlXY,"Hematologic, hematopoietic, and lymphatic systems",Anemia,Paroxysmal nocturnal hemoglobinuria,
+TBL-01-00-006,JlvnlXg,"Hematologic, hematopoietic, and lymphatic systems",Anemia,Aplastic anemia,
+TBL-01-00-007,JlvnlXs,"Hematologic, hematopoietic, and lymphatic systems",Anemia,Myelodysplastic syndrome,
+TBL-01-00-008,JlvnlXw,"Hematologic, hematopoietic, and lymphatic systems",Anemia,Autoimmune hemolytic anemia,
+TBL-01-00-009,JlvnlYM,"Hematologic, hematopoietic, and lymphatic systems",Anemia,Vitamin B12 deficiency anemia,●
+TBL-01-00-010,JlvnlYQ,"Hematologic, hematopoietic, and lymphatic systems",Anemia,Folate deficiency anemia,
+TBL-01-00-011,JlvnlYw,"Hematologic, hematopoietic, and lymphatic systems",Coagulopathy with bleeding tendency,Hypersplenism,
+TBL-01-00-012,JlvnlYs,"Hematologic, hematopoietic, and lymphatic systems",Coagulopathy with bleeding tendency,Immune thrombocytopenic purpura (ITP),
+TBL-01-00-013,JlvnlY8,"Hematologic, hematopoietic, and lymphatic systems",Coagulopathy with bleeding tendency,Hemophilia,
+TBL-01-00-014,JlvnlZE,"Hematologic, hematopoietic, and lymphatic systems",Coagulopathy with bleeding tendency,Disseminated intravascular coagulation (DIC),●
+TBL-01-00-015,JlvnlZI,"Hematologic, hematopoietic, and lymphatic systems",Coagulopathy with bleeding tendency,Hemolytic-uremic syndrome (HUS),
+TBL-01-00-016,JlvnlZQ,"Hematologic, hematopoietic, and lymphatic systems",Coagulopathy with bleeding tendency,Thrombotic thrombocytopenic purpura (TTP),
+TBL-01-00-017,JlvnlZY,"Hematologic, hematopoietic, and lymphatic systems",Coagulopathy with bleeding tendency,Vitamin K deficiency,
+TBL-01-00-018,JlvnlZk,"Hematologic, hematopoietic, and lymphatic systems",Coagulopathy with thrombophilia,Protein C/protein S/and antithrombin deficiency,
+TBL-01-00-019,JlvnlZo,"Hematologic, hematopoietic, and lymphatic systems",Coagulopathy with thrombophilia,Antiphospholipid antibody syndrome,
+TBL-01-00-020,JlvnlZ0,"Hematologic, hematopoietic, and lymphatic systems",Coagulopathy with thrombophilia,Thrombotic thrombocytopenic purpura (TTP),
+TBL-01-00-021,JlvnlZw,"Hematologic, hematopoietic, and lymphatic systems",Coagulopathy with thrombophilia,Hemolytic-uremic syndrome (HUS),
+TBL-01-00-022,JlvnlZs,"Hematologic, hematopoietic, and lymphatic systems",Coagulopathy with thrombophilia,Disseminated intravascular coagulation (DIC),
+TBL-01-00-023,Jlvnlbs,"Hematologic, hematopoietic, and lymphatic systems",Other important hematopoietic diseases,Agranulocytosis,
+TBL-01-00-024,Jlvnlbw,"Hematologic, hematopoietic, and lymphatic systems",Other important hematopoietic diseases,Hemophagocytic syndrome,
+TBL-01-00-025,Jlvnlb4,"Hematologic, hematopoietic, and lymphatic systems",Other important hematopoietic diseases,Graft-versus-host disease (GVHD),
+TBL-01-00-026,JlvnlcA,Nervous system,Cerebrovascular disease,Cerebral hemorrhage,●
+TBL-01-00-027,JlvnlcE,Nervous system,Cerebrovascular disease,Subarachnoid hemorrhage,●
+TBL-01-00-028,JlvnlcQ,Nervous system,Cerebrovascular disease,Cerebral infarction,●
+TBL-01-00-029,JlvnlcY,Nervous system,Cerebrovascular disease,Transient ischemic attack,●
+TBL-01-00-030,Jlvnlcg,Nervous system,Cerebrovascular disease,Cerebral aneurysm,
+TBL-01-00-031,Jlvnlck,Nervous system,Cerebrovascular disease,Cerebral arteriovenous malformation,
+TBL-01-00-032,Jlvnlcs,Nervous system,Cerebrovascular disease,Moyamoya disease,
+TBL-01-00-033,Jlvnlcw,Nervous system,"Infectious, inflammatory, and demyelinating diseases",Encephalitis/meningitis,●
+TBL-01-00-034,Jlvnlc4,Nervous system,"Infectious, inflammatory, and demyelinating diseases",Encephalopathy,
+TBL-01-00-035,Jlvnlc8,Nervous system,"Infectious, inflammatory, and demyelinating diseases",Brain abscess,
+TBL-01-00-036,JlvnldE,Nervous system,"Infectious, inflammatory, and demyelinating diseases",Multiple sclerosis,●
+TBL-01-00-037,JlvnldM,Nervous system,Dementia and degenerative diseases,Alzheimer’s disease,●
+TBL-01-00-038,JlvnldQ,Nervous system,Dementia and degenerative diseases,Lewy body dementia,
+TBL-01-00-039,JlvnldY,Nervous system,Dementia and degenerative diseases,Vascular dementia,
+TBL-01-00-040,Jlvnldc,Nervous system,Dementia and degenerative diseases,Parkinson’s disease,●
+TBL-01-00-041,Jlvnldk,Nervous system,Dementia and degenerative diseases,Amyotrophic lateral sclerosis,
+TBL-01-00-042,Jlvnldo,Nervous system,Dementia and degenerative diseases,Multiple system atrophy,
+TBL-01-00-043,Jlvnldw,Nervous system,"Peripheral nerve, neuromuscular junction, and musculoskeletal disorders",Nutritional deficiency neuropathy,
+TBL-01-00-044,Jlvnld0,Nervous system,"Peripheral nerve, neuromuscular junction, and musculoskeletal disorders",Toxin-related neuropathy,
+TBL-01-00-045,Jlvnld8,Nervous system,"Peripheral nerve, neuromuscular junction, and musculoskeletal disorders",Hereditary neuropathy,
+TBL-01-00-046,JlvnleA,Nervous system,"Peripheral nerve, neuromuscular junction, and musculoskeletal disorders",Guillain-Barré syndrome,
+TBL-01-00-047,JlvnleE,Nervous system,"Peripheral nerve, neuromuscular junction, and musculoskeletal disorders","Facial nerve palsy (Bell’s palsy, Ramsay Hunt syndrome)",
+TBL-01-00-048,JlvnleI,Nervous system,"Peripheral nerve, neuromuscular junction, and musculoskeletal disorders",Recurrent laryngeal nerve palsy,
+TBL-01-00-049,JlvnleQ,Nervous system,"Peripheral nerve, neuromuscular junction, and musculoskeletal disorders",Major neuralgias (trigeminal neuralgia and sciatica),
+TBL-01-00-050,JlvnleU,Nervous system,"Peripheral nerve, neuromuscular junction, and musculoskeletal disorders",Myasthenia gravis,●
+TBL-01-00-051,Jlvnlec,Nervous system,"Peripheral nerve, neuromuscular junction, and musculoskeletal disorders",Progressive muscular dystrophy,
+TBL-01-00-052,Jlvnleg,Nervous system,"Peripheral nerve, neuromuscular junction, and musculoskeletal disorders",Periodic paralysis,
+TBL-01-00-053,Jlvnleo,Nervous system,"Seizure-related, functional neurologic, or autonomic nervous system disorders",Generalized epilepsy,●
+TBL-01-00-054,Jlvnles,Nervous system,"Seizure-related, functional neurologic, or autonomic nervous system disorders",Localization-related (focal) epilepsy,●
+TBL-01-00-055,Jlvnle0,Nervous system,"Seizure-related, functional neurologic, or autonomic nervous system disorders",Migraine,●
+TBL-01-00-056,Jlvnle8,Nervous system,"Seizure-related, functional neurologic, or autonomic nervous system disorders",Tension-type headache,●
+TBL-01-00-057,JlvnlfA,Nervous system,Head injury,Cerebral contusion,
+TBL-01-00-058,JlvnlfI,Nervous system,Head injury,Concussion,
+TBL-01-00-059,JlvnlfU,Nervous system,Head injury,Acute extradural hematoma,●
+TBL-01-00-060,JlvnlfY,Nervous system,Head injury,Subdural hematoma (acute/chronic),●
+TBL-01-00-061,Jlvnlfg,Nervous system,Head injury,Skull fracture,
+TBL-01-00-062,Jlvnlfo,Nervous system,Head injury,Post-concussion syndrome,
+TBL-01-00-063,JlvnlgE,Dermatological system,Eczema and dermatitis,"Eczema (including the ‘eczema triangle’, a diagram mapping eczema progression)",●
+TBL-01-00-064,Jlvnlmk,Dermatological system,Eczema and dermatitis,Pruritus with rash/prurigo,
+TBL-01-00-065,JlvnlgM,Dermatological system,Eczema and dermatitis,Contact dermatitis,●
+TBL-01-00-066,JlvnlgQ,Dermatological system,Eczema and dermatitis,Atopic dermatitis,●
+TBL-01-00-067,JlvnlgY,Dermatological system,Eczema and dermatitis,Seborrheic eczema,
+TBL-01-00-068,Jlvnlgg,Dermatological system,Eczema and dermatitis,Discoid eczema,
+TBL-01-00-069,Jlvnlgk,Dermatological system,Eczema and dermatitis,Secondary erythroderma,
+TBL-01-00-070,Jlvnlgs,Dermatological system,Eczema and dermatitis,Allergic urticaria,
+TBL-01-00-071,Jlvnlg4,Dermatological system,"Urticaria, erythema, erythroderma, and pruritic rashes",Urticaria,●
+TBL-01-00-072,JlvnlhE,Dermatological system,"Urticaria, erythema, erythroderma, and pruritic rashes",Erythema multiforme,
+TBL-01-00-073,JlvnlhI,Dermatological system,"Urticaria, erythema, erythroderma, and pruritic rashes",Erythema nodosum,
+TBL-01-00-074,JlvnlhQ,Dermatological system,"Urticaria, erythema, erythroderma, and pruritic rashes",Erythema annulare,
+TBL-01-00-075,JlvnlhU,Dermatological system,"Urticaria, erythema, erythroderma, and pruritic rashes",Erythroderma,
+TBL-01-00-076,Jlvnlhc,Dermatological system,"Urticaria, erythema, erythroderma, and pruritic rashes",Pruritus without rash,
+TBL-01-00-077,Jlvnlh0,Dermatological system,Drug-related rashes,Generalized skin eruption due to drugs/fixed drug eruption,
+TBL-01-00-078,Jlvnlh8,Dermatological system,Drug-related rashes,Stevens-Johnson syndrome,●
+TBL-01-00-079,Juyvxe4,Dermatological system,Drug-related rashes,Toxic epidermal necrolysis (TEN),
+TBL-01-00-080,JlvnliI,Dermatological system,Drug-related rashes,Drug-induced hypersensitivity syndrome (DIHS),
+TBL-01-00-081,Jlvnlic,Dermatological system,Pustulosis,Palmoplantar pustulosis,
+TBL-01-00-082,Jlvnlio,Dermatological system,Psoriasis keratosis,Psoriasis vulgaris,
+TBL-01-00-083,Jlvnlis,Dermatological system,Psoriasis keratosis,Lichen planus,
+TBL-01-00-084,Jlvnli0,Dermatological system,Psoriasis keratosis,Pityriasis rosea Gibert,
+TBL-01-00-085,JlvnljA,Dermatological system,Skin infection,Impetigo,
+TBL-01-00-086,JlvnljE,Dermatological system,Skin infection,Furuncles and carbuncles,
+TBL-01-00-087,JlvnljM,Dermatological system,Skin infection,Folliculitis,
+TBL-01-00-088,JlvnljY,Dermatological system,Skin infection,Erysipelas,
+TBL-01-00-089,Jlvnljg,Dermatological system,Skin infection,Staphylococcal scalded skin syndrome (SSSS),
+TBL-01-00-090,Jlvnljk,Dermatological system,Skin infection,Cellulitis,●
+TBL-01-00-091,Jlvnljs,Dermatological system,Skin infection,Necrotizing fasciitis,
+TBL-01-00-092,Jlvnljw,Dermatological system,Skin infection,Dermatomycosis (superficial and deep-seated),
+TBL-01-00-093,Jlvnlj4,Dermatological system,Skin infection,Cutaneous mycobacterial infections,
+TBL-01-00-094,Jlvnlj8,Dermatological system,Skin infection,Scabies,●
+TBL-01-00-095,Jlvnlk8,Dermatological system,Skin infection,"Rashes occurring in the context of acquired immunodeficiency syndrome (AIDS) including syphilis, refractory herpes, molluscum contagiosum, Kaposi’s sarcoma etc.",●
+TBL-01-00-096,JlvnlkE,Dermatological system,Skin infection,Herpes simplex virus,●
+TBL-01-00-097,JlvnlkM,Dermatological system,Skin infection,Shingles,●
+TBL-01-00-098,JlvnlkQ,Dermatological system,Skin infection,Verruca vulgaris,
+TBL-01-00-099,JlvnlkY,Dermatological system,Skin infection,Molluscum contagiosum,
+TBL-01-00-100,Jlvnlkc,Dermatological system,Skin infection,Measles,●
+TBL-01-00-101,Jlvnlkk,Dermatological system,Skin infection,Rubella,●
+TBL-01-00-102,Jlvnlko,Dermatological system,Skin infection,Chicken pox,●
+TBL-01-00-103,Jlvnlkw,Dermatological system,Skin infection,Erythema infectiosum,
+TBL-01-00-104,Jlvnlk0,Dermatological system,Skin infection,"Hand, foot, and mouth disease",
+TBL-01-00-105,JlvnllE,Dermatological system,Hyperpigmented lesions,Mole,
+TBL-01-00-106,Jlvnllg,Dermatological system,Disease of the nails and apocrine glands,Nail disorders (spoon-shaped nails and ingrown nails),
+TBL-01-00-107,Jlvnllo,Dermatological system,Disease of the nails and apocrine glands,Miliaria,
+TBL-01-00-108,Jlvnlls,Dermatological system,Disease of the nails and apocrine glands,Hyperhidrosis,
+TBL-01-00-109,Jlvnll0,Dermatological system,Disease of the nails and apocrine glands,Anhidrosis,
+TBL-01-00-110,Jlvnll4,Dermatological system,Other skin diseases,Acne vulgaris,
+TBL-01-00-111,JlvnlmA,Dermatological system,Other skin diseases,Rosacea,
+TBL-01-00-112,JlvnlmI,Dermatological system,Other skin diseases,Bedsores,●
+TBL-01-00-113,JlvnlmM,Dermatological system,Other skin diseases,Keloid scarring,
+TBL-01-00-114,JlvnlmU,Dermatological system,Other skin diseases,Epidermal cyst,
+TBL-01-00-115,JlvnlmY,Dermatological system,Other skin diseases,Vitiligo vulgaris,
+TBL-01-00-116,Jlvnlmg,Dermatological system,Other skin diseases,Pyoderma gangrenosum,
+TBL-01-00-117,Jlvnlm4,Dermatological system,Other skin diseases,Injury from frostbite and electrocution,
+TBL-01-00-118,Jlvnlm8,Musculoskeletal system,External wound,Limb and spine trauma,
+TBL-01-00-119,Jlvnlpc,Musculoskeletal system,External wound,Spinal cord injury,●
+TBL-01-00-120,Jlvnlnk,Musculoskeletal system,External wound,Bone fracture,●
+TBL-01-00-121,JlvnlnE,Musculoskeletal system,External wound,Dislocation,
+TBL-01-00-122,JlvnlnQ,Musculoskeletal system,External wound,"Tendon, ligament, and meniscal injuries",
+TBL-01-00-123,Jlvnlno,Musculoskeletal system,External wound,"Muscle injury, traumatic rhabdomyolysis, and compartment syndrome",
+TBL-01-00-124,JmpYuec,Musculoskeletal system,Sports injury,Pulled or torn muscle,
+TBL-01-00-125,JmpYnGo,Musculoskeletal system,Sports injury,"Jammed finger (e.g., from injury with a ball)",
+TBL-01-00-126,JlvnlpA,Musculoskeletal system,Strangulated peripheral nerve disorders,Thoracic outlet syndrome,
+TBL-01-00-127,JlvnlpI,Musculoskeletal system,Strangulated peripheral nerve disorders,Carpal tunnel syndrome,
+TBL-01-00-128,JlvnlpQ,Musculoskeletal system,Strangulated peripheral nerve disorders,"Cubital tunnel syndrome, etc.",
+TBL-01-00-129,JlvnlqM,Musculoskeletal system,Infectious joint disease,Septic arthritis,
+TBL-01-00-130,JlvnlqU,Musculoskeletal system,Infectious joint disease,Osteomyelitis,
+TBL-01-00-131,JlvnlqY,Musculoskeletal system,Infectious joint disease,Intervertebral discitis/pyogenic spondylitis/Pott’s disease (spinal tuberculosis),
+TBL-01-00-132,Jlvnlnw,Musculoskeletal system,Metabolic bone disease,Osteoporosis,●
+TBL-01-00-133,Jlvnln4,Musculoskeletal system,Metabolic bone disease,Rickets/osteomalacia,
+TBL-01-00-134,Jlvnlqk,Musculoskeletal system,Hereditary disease,Scoliosis,
+TBL-01-00-135,Jlvnlqw,Musculoskeletal system,Hereditary disease,Clubfoot,
+TBL-01-00-136,JlvnlrA,Musculoskeletal system,"Osteonecrosis, epiphyseal, and cartilage disorders",Idiopathic osteonecrosis of the femoral head,
+TBL-01-00-137,JlvnlrQ,Musculoskeletal system,"Osteonecrosis, epiphyseal, and cartilage disorders",Osteochondritis dissecans,
+TBL-01-00-138,JlvnlpU,Musculoskeletal system,Spine and disease of the spinal cord,"Spondylolisthesis, myelopathy, and radiculopathy, including ossification of spinal ligaments",
+TBL-01-00-139,Jlvnlpg,Musculoskeletal system,Spine and disease of the spinal cord,Herniated intervertebral disc,●
+TBL-01-00-140,Jlvnlpo,Musculoskeletal system,Spine and disease of the spinal cord,Spinal stenosis,●
+TBL-01-00-141,Jlvnlps,Musculoskeletal system,Spine and disease of the spinal cord,Spondylolysis and spondylolisthesis,
+TBL-01-00-142,JlvnloE,Musculoskeletal system,Synovitis and arthritis,Arthritis,
+TBL-01-00-143,JlvnloI,Musculoskeletal system,Synovitis and arthritis,Tenosynovitis,
+TBL-01-00-144,JlvnloQ,Musculoskeletal system,Synovitis and arthritis,Bursitis,
+TBL-01-00-145,JlvnlnY,Musculoskeletal system,Other joint disorders,Contracture of the joint,
+TBL-01-00-146,Jlvnloc,Musculoskeletal system,Other joint disorders,Osteoarthritis,●
+TBL-01-00-147,Jlvnlok,Musculoskeletal system,Other joint disorders,Hallux valgus,
+TBL-01-00-148,Jlvnloo,Musculoskeletal system,Other joint disorders,"Valgus and varus deformity of the knee, knee hyperextension",
+TBL-01-00-149,Jlvnlo8,Musculoskeletal system,Other joint disorders,Neuropathic arthropathy,
+TBL-01-00-150,JlvnlnM,Musculoskeletal system,Other joint disorders,Radial head subluxation/pulled elbow,
+TBL-01-00-151,JmpYnGs,Musculoskeletal system,Other joint disorders,Lateral epicondylitis,
+TBL-01-00-152,JlvnlqI,Musculoskeletal system,Chronic musculoskeletal pain,Shoulder periarthritis,
+TBL-01-00-153,JlvnlqA,Musculoskeletal system,Chronic musculoskeletal pain,Adhesive capsulitis,
+TBL-01-00-154,JuyvzIo,Musculoskeletal system,Disorders of the locomotor system (other),"Locomotive syndrome, an indicator of decline in physical function from locomotive disorders",
+TBL-01-00-155,JuyvzIw,Musculoskeletal system,Disorders of the locomotor system (other),Sarcopenia,
+TBL-01-00-156,Jlvnlrk,Cardiovascular system,Heart failure,Left heart failure,
+TBL-01-00-157,Jlvnlro,Cardiovascular system,Heart failure,Right heart failure,
+TBL-01-00-158,Jlvnlrw,Cardiovascular system,Heart failure,Acute heart failure,
+TBL-01-00-159,Jlvnlr4,Cardiovascular system,Heart failure,Chronic heart failure,
+TBL-01-00-160,Jlvnlr8,Cardiovascular system,Ischemic heart disease,Exertional angina,●
+TBL-01-00-161,JlvnlsE,Cardiovascular system,Ischemic heart disease,Variant angina/Prinzmetal angina,●
+TBL-01-00-162,JlvnlsI,Cardiovascular system,Ischemic heart disease,Unstable angina,●
+TBL-01-00-163,JlvnlsQ,Cardiovascular system,Ischemic heart disease,Acute myocardial infarction,●
+TBL-01-00-164,JlvnlsU,Cardiovascular system,Arrhythmia,Sick sinus syndrome,
+TBL-01-00-165,Jlvnlsc,Cardiovascular system,Arrhythmia,Atrioventricular block,●
+TBL-01-00-166,Jlvnlsg,Cardiovascular system,Arrhythmia,Atrial fibrillation,●
+TBL-01-00-167,Jlvnlso,Cardiovascular system,Arrhythmia,Atrial flutter,●
+TBL-01-00-168,Jlvnlsw,Cardiovascular system,Arrhythmia,Paroxysmal supraventricular tachycardia,●
+TBL-01-00-169,Jlvnls0,Cardiovascular system,Arrhythmia,Ventricular tachycardia,●
+TBL-01-00-170,Jlvnls8,Cardiovascular system,Arrhythmia,Multisource ventricular tachycardia (torsades de pointes),
+TBL-01-00-171,JlvnltA,Cardiovascular system,Arrhythmia,Ventricular fibrillation,●
+TBL-01-00-172,JlvnltI,Cardiovascular system,Arrhythmia,Extrasystoles (supraventricular and ventricular),●
+TBL-01-00-173,JlvnltU,Cardiovascular system,Arrhythmia,Wolff-Parkinson-White (WPW) syndrome,
+TBL-01-00-174,Jlvnltc,Cardiovascular system,Arrhythmia,Brugada syndrome,
+TBL-01-00-175,Jlvnltg,Cardiovascular system,Valvular disease,Mitral valve disease (stenosis and regurgitation),●
+TBL-01-00-176,Jlvnlts,Cardiovascular system,Valvular disease,Aortic valve disease (stenosis and regurgitation),●
+TBL-01-00-177,Jlvnlt4,Cardiovascular system,Valvular disease,Tricuspid regurgitation,
+TBL-01-00-178,JlvnluA,Cardiovascular system,Myocardial and pericardial disease,"Idiopathic cardiomyopathy (hypertrophic, dilated, restrictive)",●
+TBL-01-00-179,JlvnluU,Cardiovascular system,Myocardial and pericardial disease,Secondary myocardial disease,
+TBL-01-00-180,JlvnluY,Cardiovascular system,Myocardial and pericardial disease,Acute myocarditis,●
+TBL-01-00-181,Jlvnlug,Cardiovascular system,Myocardial and pericardial disease,Infective endocarditis,●
+TBL-01-00-182,Jlvnluk,Cardiovascular system,Myocardial and pericardial disease,Acute pericarditis,
+TBL-01-00-183,Jlvnlus,Cardiovascular system,Myocardial and pericardial disease,Constrictive pericarditis,
+TBL-01-00-184,Jlvnluw,Cardiovascular system,Myocardial and pericardial disease,Pericardial tamponade,
+TBL-01-00-185,Jlvnlu4,Cardiovascular system,Congenital heart disease,Atrial septal defect,
+TBL-01-00-186,Jlvnlu8,Cardiovascular system,Congenital heart disease,Ventricular septal defect,
+TBL-01-00-187,JlvnlvE,Cardiovascular system,Congenital heart disease,Patent ductus arteriosus,
+TBL-01-00-188,JlvnlvM,Cardiovascular system,Congenital heart disease,Tetralogy of Fallot,
+TBL-01-00-189,JlvnlvQ,Cardiovascular system,Arterial disease,Arteriosclerosis,
+TBL-01-00-190,JlvnlvY,Cardiovascular system,Arterial disease,Acute aortic dissection,●
+TBL-01-00-191,Jlvnlvc,Cardiovascular system,Arterial disease,Aortic aneurysm (thoracic and abdominal),●
+TBL-01-00-192,Jlvnlvk,Cardiovascular system,Arterial disease,Arteriosclerosis obliterans,●
+TBL-01-00-193,Jlvnlvo,Cardiovascular system,Arterial disease,Buerger’s disease,
+TBL-01-00-194,Jlvnlvw,Cardiovascular system,Arterial disease,Takayasu arteritis (aortitis syndrome),
+TBL-01-00-195,Jlvnlv0,Cardiovascular system,Venous and lymphatic vessel diseases,Deep vein thrombosis,●
+TBL-01-00-196,JlvnlwE,Cardiovascular system,Venous and lymphatic vessel diseases,Superior vena cava syndrome,
+TBL-01-00-197,JlvnlwI,Cardiovascular system,Venous and lymphatic vessel diseases,Varicose veins of the lower extremities,●
+TBL-01-00-198,JlvnlwQ,Cardiovascular system,Venous and lymphatic vessel diseases,Lymphedema,
+TBL-01-00-199,JlvnlwU,Cardiovascular system,Hypertension,Hypertension (essential/secondary),
+TBL-01-00-200,Jlvnlwg,Cardiovascular system,Hypertension,Hypertensive crisis,
+TBL-01-00-201,Jlvnlwo,Cardiovascular system,Hypotension,Orthostatic hypotension,●
+TBL-01-00-202,Jlvnlws,Cardiovascular system,Hypotension,Reflex syncope (vasovagal/neurally mediated syncope),
+TBL-01-00-203,Jlvnlw8,Respiratory system,Respiratory failure,Hypoxemia and hypercapnia,
+TBL-01-00-204,JlvnlxA,Respiratory system,Respiratory infection,Acute upper respiratory tract infection,●
+TBL-01-00-205,JlvnlxI,Respiratory system,Respiratory infection,Tonsillitis,●
+TBL-01-00-206,JlvnlxM,Respiratory system,Respiratory infection,Bronchitis,●
+TBL-01-00-207,JlvnlxU,Respiratory system,Respiratory infection,Bronchiolitis,
+TBL-01-00-208,Jlvnlxc,Respiratory system,Respiratory infection,Pneumonia (typical and atypical),●
+TBL-01-00-209,Jlvnlxg,Respiratory system,Respiratory infection,Pulmonary tuberculosis,●
+TBL-01-00-210,Jlvnlxo,Respiratory system,Respiratory infection,Non-tuberculous mycobacteriosis,
+TBL-01-00-211,Jlvnlxs,Respiratory system,Respiratory infection,Pneumomycosis,
+TBL-01-00-212,Jlvnlx0,Respiratory system,Respiratory infection,Aspiration pneumonia,
+TBL-01-00-213,Jlvnlx4,Respiratory system,Respiratory infection,Pulmonary suppuration and pyothorax,
+TBL-01-00-214,JlvnlyA,Respiratory system,Respiratory infection,Croup,
+TBL-01-00-215,JlvnlyE,Respiratory system,Obstructive and restrictive ventilatory disorders,Chronic obstructive pulmonary disease (COPD),●
+TBL-01-00-216,JlvnlyM,Respiratory system,Obstructive and restrictive ventilatory disorders,Bullous emphysema (bullae and blebs),
+TBL-01-00-217,JlvnlyQ,Respiratory system,Obstructive and restrictive ventilatory disorders,Bronchial asthma (including cough variant asthma),●
+TBL-01-00-218,JlvnlyY,Respiratory system,Obstructive and restrictive ventilatory disorders,Idiopathic interstitial pneumonia,
+TBL-01-00-219,Jlvnlyc,Respiratory system,Obstructive and restrictive ventilatory disorders,Interstitial pneumonia associated with collagen and vascular disease,
+TBL-01-00-220,Jlvnlyw,Respiratory system,Obstructive and restrictive ventilatory disorders,Pulmonary silicosis,
+TBL-01-00-221,Jlvnly4,Respiratory system,Obstructive and restrictive ventilatory disorders,Asbestosis,
+TBL-01-00-222,Jlvnlyk,Respiratory system,Obstructive and restrictive ventilatory disorders,Diffuse panbronchiolitis,
+TBL-01-00-223,Jlvnlys,Respiratory system,Obstructive and restrictive ventilatory disorders,Radiation pneumonitis,
+TBL-01-00-224,Jlvnly8,Respiratory system,Pulmonary vascular disorders,Cor pulmonale,
+TBL-01-00-225,JlvnlzI,Respiratory system,Pulmonary vascular disorders,Pulmonary thromboembolism,●
+TBL-01-00-226,JlvnlzQ,Respiratory system,Pulmonary vascular disorders,Pulmonary hypertension (primary/secondary),
+TBL-01-00-227,Jlvnlzk,Respiratory system,Immune-mediated lung disorders,Hypersensitivity pneumonia,
+TBL-01-00-228,Jlvnlzo,Respiratory system,Immune-mediated lung disorders,Sarcoidosis,
+TBL-01-00-229,Jlvnlzw,Respiratory system,Immune-mediated lung disorders,Eosinophilic pneumonia,
+TBL-01-00-230,Jlvnlz0,Respiratory system,Immune-mediated lung disorders,Drug-induced pneumonia,
+TBL-01-00-231,Jlvnlz8,Respiratory system,Immune-mediated lung disorders,Allergic bronchopulmonary aspergillosis (ABPA),
+TBL-01-00-232,Jlvnl0A,Respiratory system,Abnormal respiration,Hyperventilation syndrome,
+TBL-01-00-233,Jlvnl0I,Respiratory system,Abnormal respiration,Sleep apnea,●
+TBL-01-00-234,Jlvnl0U,Respiratory system,Lung disease caused by other mechanisms,Bronchiectasis,
+TBL-01-00-235,Jlvnl0c,Respiratory system,Lung disease caused by other mechanisms,Atelectasis,
+TBL-01-00-236,JlvnlzE,Respiratory system,Lung disease caused by other mechanisms,Acute respiratory distress syndrome (ARDS),●
+TBL-01-00-237,Jlvnl0g,Respiratory system,Lung disease caused by other mechanisms,infantile respiratory distress syndrome (IRDS),
+TBL-01-00-238,Jlvnl0o,Respiratory system,Lung disease caused by other mechanisms,Lymphangioleiomyomatosis of the lung (LAM),
+TBL-01-00-239,Jlvnl0s,Respiratory system,Lung disease caused by other mechanisms,Pulmonary alveolar proteinosis,
+TBL-01-00-240,Jlvnl08,Respiratory system,"Diseases of the pleura, mediastinum, and diaphragm",Pleuritis,
+TBL-01-00-241,Jlvnl1A,Respiratory system,"Diseases of the pleura, mediastinum, and diaphragm",Pneumothorax (spontaneous/ tension/ traumatic),●
+TBL-01-00-242,Jlvnl1U,Respiratory system,"Diseases of the pleura, mediastinum, and diaphragm",Mediastinal emphysema,
+TBL-01-00-243,Jlvnl1Y,Respiratory system,"Diseases of the pleura, mediastinum, and diaphragm",Hemothorax,
+TBL-01-00-244,Jlvnl1o,Respiratory system,"Diseases of the pleura, mediastinum, and diaphragm",Mediastinitis,
+TBL-01-00-245,Jlvnl1s,Respiratory system,"Diseases of the pleura, mediastinum, and diaphragm",Thoracic deformity (pectus excavatum),
+TBL-01-00-246,Jlvnl10,Respiratory system,"Diseases of the pleura, mediastinum, and diaphragm",Phrenic nerve paralysis,
+TBL-01-00-247,Jlvnl14,Respiratory system,"Diseases of the pleura, mediastinum, and diaphragm",Diaphragmatic hernia,
+TBL-01-00-248,Jlvnl2E,Digestive system,Esophageal disease,Esophageal varices/gastric varices,●
+TBL-01-00-249,Jlvnl2M,Digestive system,Esophageal disease,Gastroesophageal reflux disease (GERD),●
+TBL-01-00-250,Jlvnl2U,Digestive system,Esophageal disease,Gastroesophageal reflux disease with esophagitis,
+TBL-01-00-251,Jlvnl2Y,Digestive system,Esophageal disease,Mallory–Weiss syndrome,
+TBL-01-00-252,Jlvnl2g,Digestive system,Esophageal disease,Achalasia,
+TBL-01-00-253,Jlvnl2k,Digestive system,Gastrointestinal and duodenal disease,Peptic ulcer disease (gastric and duodenal),●
+TBL-01-00-254,Jlvnl2s,Digestive system,Gastrointestinal and duodenal disease,Helicobacter pylori infection,
+TBL-01-00-255,Jlvnl24,Digestive system,Gastrointestinal and duodenal disease,Acute gastritis,
+TBL-01-00-256,Jlvnl3E,Digestive system,Gastrointestinal and duodenal disease,Chronic gastritis,
+TBL-01-00-257,Jlvnl3Q,Digestive system,Gastrointestinal and duodenal disease,Functional gastrointestinal disorders (functional dyspepsia),●
+TBL-01-00-258,Jlvnl2w,Digestive system,Gastrointestinal and duodenal disease,Polyps of stomach and duodenum,
+TBL-01-00-259,Jlvnl3M,Digestive system,Gastrointestinal and duodenal disease,Postgastrectomy syndromes,
+TBL-01-00-260,Jlvnl3Y,Digestive system,Gastrointestinal and duodenal disease,Pyloric stenosis,
+TBL-01-00-261,Jlvnl3c,Digestive system,Gastrointestinal and duodenal disease,Gastrointestinal anisakiasis,
+TBL-01-00-262,Jlvnl38,Digestive system,Diseases of the small and large intestine,Diverticulitis,
+TBL-01-00-263,Jlvnl4E,Digestive system,Diseases of the small and large intestine,Diverticular hemorrhage,
+TBL-01-00-264,Jlvnl3k,Digestive system,Diseases of the small and large intestine,Acute appendicitis,●
+TBL-01-00-265,Jlvnl3o,Digestive system,Diseases of the small and large intestine,Intestinal obstruction,●
+TBL-01-00-266,Jlvnl4g,Digestive system,Diseases of the small and large intestine,Intussusception,
+TBL-01-00-267,Jlvnl30,Digestive system,Diseases of the small and large intestine,Hemorrhoids,●
+TBL-01-00-268,Jlvnl4o,Digestive system,Diseases of the small and large intestine,Constipation,●
+TBL-01-00-269,Jlvnl34,Digestive system,Diseases of the small and large intestine,Functional gastrointestinal disorders (irritable bowel syndrome),●
+TBL-01-00-270,Jlvnl4s,Digestive system,Diseases of the small and large intestine,Infectious enteritis and colitis,
+TBL-01-00-271,Jlvnl48,Digestive system,Diseases of the small and large intestine,Ischemic colitis,
+TBL-01-00-272,Jlvnl3s,Digestive system,Diseases of the small and large intestine,Ulcerative colitis,●
+TBL-01-00-273,Jlvnl3w,Digestive system,Diseases of the small and large intestine,Crohn’s disease,●
+TBL-01-00-274,Jlvnl40,Digestive system,Diseases of the small and large intestine,Infantile diarrhea,
+TBL-01-00-275,Jlvnl4U,Digestive system,Diseases of the small and large intestine,Imperforate anus,
+TBL-01-00-276,Jlvnl4c,Digestive system,Diseases of the small and large intestine,Hirschsprung’s disease,
+TBL-01-00-277,Jlvnl5A,Digestive system,Diseases of the small and large intestine,Acute hemorrhagic rectal ulcer,
+TBL-01-00-278,Jlvnl5I,Digestive system,Diseases of the small and large intestine,Superior mesenteric artery occlusion,
+TBL-01-00-279,Jlvnl4Q,Digestive system,Common diseases of the gastrointestinal tract,Gastrointestinal polyposis,
+TBL-01-00-280,Jlvnl28,Digestive system,Common diseases of the gastrointestinal tract,Acute gastroenteritis,●
+TBL-01-00-281,Jlvnl4I,Digestive system,Common diseases of the gastrointestinal tract,Drug-induced gastrointestinal disorders,
+TBL-01-00-282,Jlvnl50,Digestive system,Liver disease,Hepatitis A,●
+TBL-01-00-283,Jlvnl54,Digestive system,Liver disease,Hepatitis B,●
+TBL-01-00-284,Jlvnl6A,Digestive system,Liver disease,Hepatitis C,●
+TBL-01-00-285,Jlvnl6Q,Digestive system,Liver disease,Acute hepatitis,●
+TBL-01-00-286,Jlvnl6Y,Digestive system,Liver disease,Chronic hepatitis,●
+TBL-01-00-287,Jlvnl6g,Digestive system,Liver disease,Acute liver failure,●
+TBL-01-00-288,Jlvnl7c,Digestive system,Liver disease,Fatty liver,●
+TBL-01-00-289,Jlvnl64,Digestive system,Liver disease,Alcoholic liver disease,●
+TBL-01-00-290,Jlvnl68,Digestive system,Liver disease,Drug-induced liver disease,
+TBL-01-00-291,Jlvnl7E,Digestive system,Liver disease,Liver abscess,
+TBL-01-00-292,Jlvnl7I,Digestive system,Liver disease,Primary biliary cholangitis (PBC),
+TBL-01-00-293,Jlvnl7Q,Digestive system,Liver disease,Primary sclerosing cholangitis (PSC),
+TBL-01-00-294,Jlvnl7Y,Digestive system,Liver disease,Autoimmune hepatitis,
+TBL-01-00-295,Juyv1iM,Digestive system,Liver disease,Cirrhosis of liver,
+TBL-01-00-296,Jlvnl6k,Digestive system,Liver disease,Portal hypertension,●
+TBL-01-00-297,Jlvnl6s,Digestive system,Liver disease,Hepatic encephalopathy,●
+TBL-01-00-298,Jlvnl6w,Digestive system,Liver disease,Liver cancer,●
+TBL-01-00-299,Jlvnl5M,Digestive system,Biliary disease,Cholelithiasis,●
+TBL-01-00-300,Jlvnl5U,Digestive system,Biliary disease,Cholecystitis,●
+TBL-01-00-301,Jlvnl5Y,Digestive system,Biliary disease,Cholangitis,●
+TBL-01-00-302,Jlvnl5g,Digestive system,Biliary disease,Gallbladder polyp,
+TBL-01-00-303,Jlvnl5k,Digestive system,Biliary disease,Congenital dilation of the bile duct,
+TBL-01-00-304,Jlvnl5s,Digestive system,Biliary disease,Pancreatic and biliary confluence abnormalities,
+TBL-01-00-305,Jlvnl7k,Digestive system,Pancreatic disease,Acute pancreatitis (alcoholic/biliary/idiopathic),●
+TBL-01-00-306,Jlvnl7o,Digestive system,Pancreatic disease,Chronic pancreatitis (alcoholic/idiopathic),●
+TBL-01-00-307,Jlvnl7w,Digestive system,Pancreatic disease,Autoimmune pancreatitis,
+TBL-01-00-308,Jlvnl70,Digestive system,"Diseases of the peritoneum, abdominal wall, and diaphragm",Peritonitis,●
+TBL-01-00-309,Jlvnl78,Digestive system,"Diseases of the peritoneum, abdominal wall, and diaphragm",Hernia (sliding hiatus/incarcerated/strangulated),
+TBL-01-00-310,Jlvnl8E,Digestive system,"Diseases of the peritoneum, abdominal wall, and diaphragm",Inguinal hernia,●
+TBL-01-00-311,Jlvnl8Q,Renal and urinary system (including fluid and electrolyte balance),Impairment of renal function,Acute kidney injury (AKI),●
+TBL-01-00-312,Jlvnl8U,Renal and urinary system (including fluid and electrolyte balance),Impairment of renal function,Chronic kidney disease (CKD),●
+TBL-01-00-313,Jlvnl8c,Renal and urinary system (including fluid and electrolyte balance),Impairment of renal function,Chronic renal failure,
+TBL-01-00-314,Jlvnl8g,Renal and urinary system (including fluid and electrolyte balance),Electrolyte disturbance,Hyper- and hyponatremia,●
+TBL-01-00-315,Jlvnl8o,Renal and urinary system (including fluid and electrolyte balance),Electrolyte disturbance,Hyper- and hypokalemia,●
+TBL-01-00-316,Jlvnl8s,Renal and urinary system (including fluid and electrolyte balance),Electrolyte disturbance,Hyper- and hypocalcemia,●
+TBL-01-00-317,Jlvnl80,Renal and urinary system (including fluid and electrolyte balance),Electrolyte disturbance,Hyper- and hypophosphatemia,
+TBL-01-00-318,Jlvnl84,Renal and urinary system (including fluid and electrolyte balance),Electrolyte disturbance,Hyper- and hypomagnesemia,
+TBL-01-00-319,Jlvnl9A,Renal and urinary system (including fluid and electrolyte balance),Acid-base imbalance,Acidosis (metabolic and respiratory),
+TBL-01-00-320,Jlvnl9I,Renal and urinary system (including fluid and electrolyte balance),Acid-base imbalance,Alkalosis (metabolic and respiratory),
+TBL-01-00-321,Jlvnl9M,Renal and urinary system (including fluid and electrolyte balance),Primary glomerular disease,Acute glomerulonephritis,●
+TBL-01-00-322,Jlvnl9U,Renal and urinary system (including fluid and electrolyte balance),Primary glomerular disease,IgA nephropathy,●
+TBL-01-00-323,Jlvnl9Y,Renal and urinary system (including fluid and electrolyte balance),Primary glomerular disease,Membranous nephropathy,●
+TBL-01-00-324,Jlvnl9g,Renal and urinary system (including fluid and electrolyte balance),Primary glomerular disease,Focal segmental glomerulosclerosis,
+TBL-01-00-325,Jlvnl9k,Renal and urinary system (including fluid and electrolyte balance),Primary glomerular disease,Minimal change disease,●
+TBL-01-00-326,Jlvnl9s,Renal and urinary system (including fluid and electrolyte balance),Primary glomerular disease,Membranous proliferative glomerulonephritis,
+TBL-01-00-327,Jlvnl90,Renal and urinary system (including fluid and electrolyte balance),Hypertension and renal vascular disease,Nephrosclerosis,
+TBL-01-00-328,Jlvnl94,Renal and urinary system (including fluid and electrolyte balance),Hypertension and renal vascular disease,Renovascular hypertension,
+TBL-01-00-329,Jlvnl-A,Renal and urinary system (including fluid and electrolyte balance),Tubular and interstitial diseases,Renal tubular acidosis,
+TBL-01-00-330,Jlvnl-E,Renal and urinary system (including fluid and electrolyte balance),Tubular and interstitial diseases,Tubulointerstitial nephritis (acute and chronic),
+TBL-01-00-331,Jlvnl-M,Renal and urinary system (including fluid and electrolyte balance),Tubular and interstitial diseases,Acute pyelonephritis,●
+TBL-01-00-332,Jlvnl-Q,Renal and urinary system (including fluid and electrolyte balance),Renal impairment due to systemic disease,Diabetic nephropathy,●
+TBL-01-00-333,Jlvnl-Y,Renal and urinary system (including fluid and electrolyte balance),Renal impairment due to systemic disease,IgA vasculitis,
+TBL-01-00-334,Jlvnl-g,Renal and urinary system (including fluid and electrolyte balance),Renal impairment due to systemic disease,Renal amyloidosis,
+TBL-01-00-335,Jlvnl-w,Renal and urinary system (including fluid and electrolyte balance),Renal impairment due to systemic disease,Anti-glomerular basement membrane disease (anti-GBM disease),
+TBL-01-00-336,Jlvnl-k,Renal and urinary system (including fluid and electrolyte balance),Renal impairment due to systemic disease,Lupus nephritis,
+TBL-01-00-337,Jlvnl-s,Renal and urinary system (including fluid and electrolyte balance),Renal impairment due to systemic disease,Vasculitis syndrome,
+TBL-01-00-338,Jlvnl-4,Renal and urinary system (including fluid and electrolyte balance),Congenital anomalies and trauma,Polycystic kidney disease,
+TBL-01-00-339,Jlvnl-8,Renal and urinary system (including fluid and electrolyte balance),Congenital anomalies and trauma,Vesicoureteral reflux,
+TBL-01-00-340,Jlvnl_E,Renal and urinary system (including fluid and electrolyte balance),Congenital anomalies and trauma,Renal trauma,
+TBL-01-00-341,Jlvnl_I,Renal and urinary system (including fluid and electrolyte balance),Urinary tract disease,Urinary stone disease,●
+TBL-01-00-342,Jlvnl_g,Renal and urinary system (including fluid and electrolyte balance),Urinary tract disease,Neurogenic bladder,
+TBL-01-00-343,Jlvnl_Q,Renal and urinary system (including fluid and electrolyte balance),Urinary tract disease,Cystitis,●
+TBL-01-00-344,Jlvnl_U,Renal and urinary system (including fluid and electrolyte balance),Urinary tract disease,Prostatitis,●
+TBL-01-00-345,Jlvnl_c,Renal and urinary system (including fluid and electrolyte balance),Urinary tract disease,Urethritis,●
+TBL-01-00-346,Jlvnl_w,Reproductive system,Diseases of the male reproductive organs,Male infertility,
+TBL-01-00-347,Jlvnl_0,Reproductive system,Diseases of the male reproductive organs,Enlarged prostate,●
+TBL-01-00-348,Jlvnl_8,Reproductive system,Diseases of the male reproductive organs,Prostatitis,
+TBL-01-00-349,JlvnmAA,Reproductive system,Diseases of the male reproductive organs,Undescended testicle,
+TBL-01-00-350,JlvnmAI,Reproductive system,Diseases of the male reproductive organs,Scrotal/testicular mass,
+TBL-01-00-351,JlvnmAQ,Reproductive system,Diseases of the male reproductive organs,Testicular torsion,
+TBL-01-00-352,JlvnmAo,Reproductive system,Diseases of the female reproductive organs,Primary dysmenorrhea,●
+TBL-01-00-353,JlvnmAU,Reproductive system,Diseases of the female reproductive organs,Congenital malformations of internal reproductive organs and external genitalia,
+TBL-01-00-354,JlvnmAc,Reproductive system,Diseases of the female reproductive organs,Ovarian dysfunction,
+TBL-01-00-355,JlvnmA0,Reproductive system,Diseases of the female reproductive organs,Menopausal and female climacteric states,●
+TBL-01-00-356,JlvnmA4,Reproductive system,Diseases of the female reproductive organs,Female infertility,
+TBL-01-00-357,JlvnmBA,Reproductive system,Diseases of the female reproductive organs,Uterine fibroids and adenomyosis of the uterus,●
+TBL-01-00-358,JlvnmBE,Reproductive system,Diseases of the female reproductive organs,Endometriosis,●
+TBL-01-00-359,JlvnmBM,Reproductive system,Diseases of the female reproductive organs,Genital tract and pelvic infections,
+TBL-01-00-360,JlvnmBg,Pregnancy and delivery,Abnormal pregnancy,Hyperemesis gravidarum,
+TBL-01-00-361,JlvnmBk,Pregnancy and delivery,Abnormal pregnancy,Ectopic pregnancy,●
+TBL-01-00-362,JlvnmBs,Pregnancy and delivery,Abnormal pregnancy,Miscarriage and threatened miscarriage,●
+TBL-01-00-363,JlvnmBw,Pregnancy and delivery,Abnormal pregnancy,High risk pregnancy,
+TBL-01-00-364,JlvnmB4,Pregnancy and delivery,Abnormal pregnancy,Gestational hypertension,●
+TBL-01-00-365,JlvnmCA,Pregnancy and delivery,Abnormal pregnancy,Multiple gestation,
+TBL-01-00-366,JlvnmCE,Pregnancy and delivery,Abnormal pregnancy,Premature rupture of membranes and preterm premature rupture of membranes,
+TBL-01-00-367,JlvnmCM,Pregnancy and delivery,Abnormal pregnancy,Threatened preterm labor,●
+TBL-01-00-368,JlvnmCQ,Pregnancy and delivery,Abnormal pregnancy,Maternal care for abnormalities of the fetal heart rate or rhythm,
+TBL-01-00-369,JlvnmCY,Pregnancy and delivery,Abnormal delivery,Preterm labor with preterm delivery,●
+TBL-01-00-370,JlvnmCc,Pregnancy and delivery,Abnormal delivery,Uterine inertia,
+TBL-01-00-371,JlvnmCk,Pregnancy and delivery,Abnormal delivery,Long labor,
+TBL-01-00-372,JlvnmCo,Pregnancy and delivery,Abnormal delivery,Obstructed labor due to incomplete rotation of fetal head,
+TBL-01-00-373,JlvnmCw,Pregnancy and delivery,Abnormal delivery,Placenta previa,
+TBL-01-00-374,JlvnmC4,Pregnancy and delivery,Abnormal delivery,Placenta accreta,
+TBL-01-00-375,JlvnmC8,Pregnancy and delivery,Abnormal delivery,Premature separation of placenta/placental abruption,
+TBL-01-00-376,JlvnmDE,Pregnancy and delivery,Abnormal delivery,Birth injury,
+TBL-01-00-377,JlvnmDI,Pregnancy and delivery,Puerperal complications,Subinvolution of uterus,
+TBL-01-00-378,JlvnmDQ,Pregnancy and delivery,Puerperal complications,Puerperal sepsis,
+TBL-01-00-379,JlvnmDU,Pregnancy and delivery,Puerperal complications,Mastitis,
+TBL-01-00-380,JlvnmDc,Pregnancy and delivery,Postpartum hemorrhage,Atonic postpartum hemorrhage,
+TBL-01-00-381,JlvnmDg,Pregnancy and delivery,Postpartum hemorrhage,Amniotic fluid embolism,
+TBL-01-00-382,JlvnmDk,Pregnancy and delivery,Postpartum hemorrhage,Disseminated intravascular coagulation (DIC),
+TBL-01-00-383,JlvnmDo,Pregnancy and delivery,Complications in pregnancy,Anemia,
+TBL-01-00-384,JlvnmDs,Pregnancy and delivery,Complications in pregnancy,Abnormal glucose tolerance/gestational diabetes,
+TBL-01-00-385,JlvnmD0,Pregnancy and delivery,Complications in pregnancy,Thyroid disorders in pregnancy,
+TBL-01-00-386,JlvnmD8,Pregnancy and delivery,Complications in pregnancy,Immune thrombocytopenic purpura (ITP),
+TBL-01-00-387,JlvnmEk,Pregnancy and delivery,Mother-to-child transmission,TORCH syndrome,
+TBL-01-00-388,JlvnmEA,Pregnancy and delivery,Mother-to-child transmission,Hepatitis B,
+TBL-01-00-389,JlvnmEI,Pregnancy and delivery,Mother-to-child transmission,Hepatitis C,
+TBL-01-00-390,JlvnmEM,Pregnancy and delivery,Mother-to-child transmission,HIV and AIDS,
+TBL-01-00-391,JlvnmEU,Pregnancy and delivery,Mother-to-child transmission,HTLV-I infection,
+TBL-01-00-392,JlvnmEY,Pregnancy and delivery,Mother-to-child transmission,Parvovirus B19 infection,
+TBL-01-00-393,JlvnmEg,Pregnancy and delivery,Mother-to-child transmission,Group B streptococcus (GBS) infections,
+TBL-01-00-394,JlvnmEs,Pediatrics,Diseases of the blood and blood-forming organs,Acute leukemia,●
+TBL-01-00-395,JnekjMI,Pediatrics,Diseases of the blood and blood-forming organs,Malignant lymphoma,
+TBL-01-00-396,JlvnmE0,Pediatrics,Diseases of the blood and blood-forming organs,Vitamin K deficiency,
+TBL-01-00-397,JlvnmE4,Pediatrics,Diseases of the nervous system,Febrile seizures,●
+TBL-01-00-398,Juyv3WQ,Pediatrics,Diseases of the nervous system,Night terror,
+TBL-01-00-399,Juyv3Wc,Pediatrics,Diseases of the nervous system,Enuresis,
+TBL-01-00-400,Juyv3Wg,Pediatrics,Diseases of the nervous system,Acute encephalopathy,
+TBL-01-00-401,JlvnmFA,Pediatrics,Diseases of the nervous system,Cerebral palsy,●
+TBL-01-00-402,JlvnmFE,Pediatrics,Diseases of the nervous system,Hydrocephalus,
+TBL-01-00-403,JlvnmFM,Pediatrics,Diseases of the skin,Impetigo,
+TBL-01-00-404,JnekjMQ,Pediatrics,Diseases of the skin,Staphylococcal scalded skin syndrome (SSSS),
+TBL-01-00-405,JlvnmFQ,Pediatrics,Diseases of the skin,Molluscum contagiosum,
+TBL-01-00-406,JlvnmFY,Pediatrics,Diseases of the skin,Measles,●
+TBL-01-00-407,JlvnmFg,Pediatrics,Diseases of the skin,Rubella,●
+TBL-01-00-408,JlvnmFk,Pediatrics,Diseases of the skin,Chicken pox,●
+TBL-01-00-409,JlvnmFs,Pediatrics,Diseases of the skin,Erythema infectiosum,
+TBL-01-00-410,JlvnmFw,Pediatrics,Diseases of the skin,"Hand, foot, and mouth disease",
+TBL-01-00-411,JlvnmF4,Pediatrics,Diseases of the circulatory system,Atrial septal defect,
+TBL-01-00-412,JlvnmF8,Pediatrics,Diseases of the circulatory system,Ventricular septal defect,
+TBL-01-00-413,JlvnmGE,Pediatrics,Diseases of the circulatory system,Patent ductus arteriosus,
+TBL-01-00-414,JlvnmGM,Pediatrics,Diseases of the circulatory system,Tetralogy of Fallot,
+TBL-01-00-415,JlvnmGQ,Pediatrics,Diseases of the respiratory system,Croup,
+TBL-01-00-416,JlvnmGY,Pediatrics,Diseases of the respiratory system,Bronchiolitis,●
+TBL-01-00-417,JlvnmGc,Pediatrics,Diseases of the respiratory system,Bronchial asthma (including cough variant asthma),●
+TBL-01-00-418,JlvnmGk,Pediatrics,Diseases of the gastrointestinal system,Hypertrophic pyloric stenosis,
+TBL-01-00-419,JlvnmGo,Pediatrics,Diseases of the gastrointestinal system,Imperforate anus,
+TBL-01-00-420,JlvnmGs,Pediatrics,Diseases of the gastrointestinal system,Hirschsprung’s disease,
+TBL-01-00-421,JlvnmGw,Pediatrics,Diseases of the gastrointestinal system,Intussusception,●
+TBL-01-00-422,JlvnmG0,Pediatrics,Diseases of the gastrointestinal system,Constipation,
+TBL-01-00-423,JlvnmG8,Pediatrics,Diseases of the gastrointestinal system,Infantile diarrhea,●
+TBL-01-00-424,JlvnmHE,Pediatrics,Diseases of the gastrointestinal system,Biliary atresia,
+TBL-01-00-425,JlvnmHI,Pediatrics,Diseases of the gastrointestinal system,Inguinal hernia,●
+TBL-01-00-426,JlvnmHQ,Pediatrics,Disease of the renal and urinary system,Hemolytic-uremic syndrome (HUS),
+TBL-01-00-427,JlvnmHU,Pediatrics,Disease of the renal and urinary system,Nephrotic syndrome,●
+TBL-01-00-428,JlvnmHc,Pediatrics,Disease of the renal and urinary system,Purpura nephritis,
+TBL-01-00-429,JlvnmHg,Pediatrics,Disease of the renal and urinary system,Congenital anomalies of the kidney and urinary tract,
+TBL-01-00-430,JlvnmHo,Pediatrics,Disease of the renal and urinary system,Vesicoureteral reflux,
+TBL-01-00-431,JlvnmHw,Pediatrics,Endocrine and metabolic diseases,Short stature associated with growth hormone deficiency,
+TBL-01-00-432,JlvnmH0,Pediatrics,Endocrine and metabolic diseases,Congenital adrenal hyperplasia,
+TBL-01-00-433,JlvnmH8,Pediatrics,Endocrine and metabolic diseases,Cyclic vomiting syndrome,
+TBL-01-00-434,JlvnmIA,Pediatrics,"Mental, behavioral, and neurodevelopmental disorders",Autism spectrum disorder (ASD),
+TBL-01-00-435,JlvnmII,Pediatrics,"Mental, behavioral, and neurodevelopmental disorders",Attention deficit hyperactivity disorder (ADHD),
+TBL-01-00-436,JlvnmIM,Pediatrics,"Mental, behavioral, and neurodevelopmental disorders",Specific learning disability,
+TBL-01-00-437,JlvnmIQ,Pediatrics,"Mental, behavioral, and neurodevelopmental disorders",Tic disorder,
+TBL-01-00-438,JlvnmIU,Pediatrics,Psychosomatic diseases,Psychosomatic illness,
+TBL-01-00-439,JlvnmI4,Pediatrics,Immunology and allergy,IgA vasculitis,
+TBL-01-00-440,JlvnmJA,Pediatrics,Immunology and allergy,Kawasaki disease,
+TBL-01-00-441,JlvnmJE,Pediatrics,Chromosomal abnormality,Down’s syndrome,
+TBL-01-00-442,JlvnmJM,Pediatrics,Neonatal,Perinatal asphyxia,
+TBL-01-00-443,JlvnmJU,Pediatrics,Neonatal,Infantile respiratory distress syndrome (IRDS),
+TBL-01-00-444,JlvnmJY,Pediatrics,Neonatal,Neonatal jaundice (hyperbilirubinemia),
+TBL-01-00-445,JlvnmJg,Pediatrics,Neonatal,Preterm and low birth weight infants,
+TBL-01-00-446,JlvnmJk,Pediatrics,Neonatal,Meconium aspiration syndrome,
+TBL-01-00-447,JlvnmJs,Pediatrics,Neonatal,Transient tachypnea of the newborn,
+TBL-01-00-448,JlvnmJw,Pediatrics,Emergency and intensive care,Sudden infant death syndrome (SIDS),
+TBL-01-00-449,JlvnmJ4,Pediatrics,Emergency and intensive care,Child abuse,
+TBL-01-00-450,Juyv51s,Pediatrics,Emergency and intensive care,Pediatric acute respiratory distress syndrome (PARDS),
+TBL-01-00-451,Juyv510,Pediatrics,Emergency and intensive care,Sepsis,
+TBL-01-00-452,Juyv518,Pediatrics,Emergency and intensive care,Foreign body in the digestive tract,
+TBL-01-00-453,Juyv52A,Pediatrics,Emergency and intensive care,Foreign body in the respiratory tract,
+TBL-01-00-454,JlvnmJ8,Breast,Emergency and intensive care,Benign breast diseases (mastitis/mastopathy),
+TBL-01-00-455,JlvnmKI,"Endocrine, nutritional, and metabolic system",Intracranial and pituitary disease,Acromegaly,
+TBL-01-00-456,JlvnmKQ,"Endocrine, nutritional, and metabolic system",Intracranial and pituitary disease,Cushing disease,
+TBL-01-00-457,JlvnmKY,"Endocrine, nutritional, and metabolic system",Intracranial and pituitary disease,Hyperprolactinemia,
+TBL-01-00-458,JlvnmKk,"Endocrine, nutritional, and metabolic system",Intracranial and pituitary disease,Hypothalamus hypopituitarism,
+TBL-01-00-459,JlvnmKo,"Endocrine, nutritional, and metabolic system",Intracranial and pituitary disease,Central enuresis,
+TBL-01-00-460,JlvnmKw,"Endocrine, nutritional, and metabolic system",Intracranial and pituitary disease,Syndrome of inappropriate antidiuretic hormone secretion (SIADH),
+TBL-01-00-461,JlvnmK0,"Endocrine, nutritional, and metabolic system",Intracranial and pituitary disease,Pituitary tumor,
+TBL-01-00-462,JlvnmK8,"Endocrine, nutritional, and metabolic system",Thyroid disease,Hyperthyroidism,●
+TBL-01-00-463,JlvnmLA,"Endocrine, nutritional, and metabolic system",Thyroid disease,Hypothyroidism,●
+TBL-01-00-464,JlvnmLE,"Endocrine, nutritional, and metabolic system",Thyroid disease,"Thyroiditis (chronic, painless, subacute)",
+TBL-01-00-465,JlvnmLI,"Endocrine, nutritional, and metabolic system",Parathyroid disorders,Hyperparathyroidism,
+TBL-01-00-466,JlvnmLQ,"Endocrine, nutritional, and metabolic system",Parathyroid disorders,Hypoparathyroidism,
+TBL-01-00-467,JlvnmLU,"Endocrine, nutritional, and metabolic system",Parathyroid disorders,Hypercalcemia associated with malignancy,
+TBL-01-00-468,JlvnmLc,"Endocrine, nutritional, and metabolic system",Adrenocortical and adrenal medullary disorders,Cushing syndrome,
+TBL-01-00-469,JlvnmLg,"Endocrine, nutritional, and metabolic system",Adrenocortical and adrenal medullary disorders,Hyperaldosteronism,
+TBL-01-00-470,JlvnmLo,"Endocrine, nutritional, and metabolic system",Adrenocortical and adrenal medullary disorders,Primary aldosteronism,
+TBL-01-00-471,JlvnmLs,"Endocrine, nutritional, and metabolic system",Adrenocortical and adrenal medullary disorders,Adrenal insufficiency (acute and chronic (Addison’s disease)),
+TBL-01-00-472,JlvnmL0,"Endocrine, nutritional, and metabolic system",Glucometabolic abnormality,Type 1 diabetes mellitus,●
+TBL-01-00-473,JlvnmL8,"Endocrine, nutritional, and metabolic system",Glucometabolic abnormality,Type 2 diabetes mellitus,●
+TBL-01-00-474,JlvnmMs,"Endocrine, nutritional, and metabolic system",Glucometabolic abnormality,Hypoglycemia,
+TBL-01-00-475,JlvnmMA,"Endocrine, nutritional, and metabolic system",Complications of diabetes mellitus,Diabetic ketoacidosis,●
+TBL-01-00-476,JlvnmMI,"Endocrine, nutritional, and metabolic system",Complications of diabetes mellitus,Hyperglycemia-hyperosmotic syndrome,●
+TBL-01-00-477,JlvnmMM,"Endocrine, nutritional, and metabolic system",Complications of diabetes mellitus,Lactic acidosis,
+TBL-01-00-478,JlvnmMU,"Endocrine, nutritional, and metabolic system",Complications of diabetes mellitus,Diabetic retinopathy,●
+TBL-01-00-479,JlvnmMY,"Endocrine, nutritional, and metabolic system",Complications of diabetes mellitus,Diabetic nephropathy,●
+TBL-01-00-480,JlvnmMg,"Endocrine, nutritional, and metabolic system",Complications of diabetes mellitus,Diabetic neuropathy,●
+TBL-01-00-481,JlvnmMk,"Endocrine, nutritional, and metabolic system",Complications of diabetes mellitus,Diabetic foot,●
+TBL-01-00-482,JlvnmMw,"Endocrine, nutritional, and metabolic system",Abnormal lipid metabolism,"Dyslipidemia (dyslipidemia, dyslipidemia)",●
+TBL-01-00-483,JlvnmM4,"Endocrine, nutritional, and metabolic system",Abnormal lipid metabolism,Obesity,
+TBL-01-00-484,JlvnmNA,"Endocrine, nutritional, and metabolic system","Vitamin, nucleic acid, and other metabolismabnormality",Avitaminosis,
+TBL-01-00-485,JlvnmNE,"Endocrine, nutritional, and metabolic system","Vitamin, nucleic acid, and other metabolismabnormality",Hyperuricemia/gout,●
+TBL-01-00-486,JlvnmNM,"Endocrine, nutritional, and metabolic system","Vitamin, nucleic acid, and other metabolismabnormality",Systemic amyloidosis,
+TBL-01-00-487,JlvnmNQ,"Endocrine, nutritional, and metabolic system",Childhood diseases,Short stature with failure of growth hormone secretion,
+TBL-01-00-488,JlvnmNY,"Endocrine, nutritional, and metabolic system",Childhood diseases,Congenital adrenal cortical hyperplasia,
+TBL-01-00-489,JlvnmNk,Ocular and visual system,Lens disorders,Refractive error (myopia/farsightedness/astigmatism) and dysregulation,
+TBL-01-00-490,JlvnmNs,Ocular and visual system,"Conjunctival, scleral, and corneal disorders",Conjunctivitis/keratitis,●
+TBL-01-00-491,JlvnmOk,Ocular and visual system,"Conjunctival, scleral, and corneal disorders",Chemical damage (alkali/acid),
+TBL-01-00-492,JlvnmNw,Ocular and visual system,Eyelid disorders,Hordeolum/chalazion,
+TBL-01-00-493,JlvnmN4,Ocular and visual system,Ocular tissue disorders,Cataract,●
+TBL-01-00-494,JlvnmN8,Ocular and visual system,Ocular tissue disorders,Glaucoma,●
+TBL-01-00-495,JlvnmOc,Ocular and visual system,Optic nerve and visual pathway disorders,"Optic neuritis, papillary stasis",
+TBL-01-00-496,JlvnmOY,Ocular and visual system,Uveal diseases,Uveitis,
+TBL-01-00-497,JlvnmOQ,Ocular and visual system,Choroidal and retinal disorders,"Fundus changes due to diabetes and hypertension (e.g., diabetic retinopathy)",●
+TBL-01-00-498,JlvnmOE,Ocular and visual system,Choroidal and retinal disorders,Rhegmatogenous retinal detachment,
+TBL-01-00-499,JlvnmOI,Ocular and visual system,Choroidal and retinal disorders,Age-related macular degeneration and retinitis pigmentosa,
+TBL-01-00-500,JlvnmOo,Ocular and visual system,Choroidal and retinal disorders,Retinal vein occlusion and arterial occlusion embolism,
+TBL-01-00-501,JlvnmO0,"Ear, nose, throat, and oral cavity",Diseases of the ear,"Otitis media (acute, chronic, exudative, pearly)",●
+TBL-01-00-502,JlvnmO8,"Ear, nose, throat, and oral cavity",Diseases of the ear,Otitis externa,
+TBL-01-00-503,JlvnmPI,"Ear, nose, throat, and oral cavity",Diseases of the ear,"Hearing loss (noise, drug, sudden, senile)",
+TBL-01-00-504,JlvnmPM,"Ear, nose, throat, and oral cavity",Diseases of the ear,Hearing loss in infants,
+TBL-01-00-505,JlvnmPc,"Ear, nose, throat, and oral cavity",Diseases of the ear,Agoraphobia,
+TBL-01-00-506,JlvnmPg,"Ear, nose, throat, and oral cavity",Diseases of the ear,Benign paroxysmal positional vertigo,●
+TBL-01-00-507,JlvnmPo,"Ear, nose, throat, and oral cavity",Diseases of the ear,Ménière’s disease,●
+TBL-01-00-508,JlvnmPs,"Ear, nose, throat, and oral cavity",Diseases of the ear,Vestibular neuritis,
+TBL-01-00-509,JlvnmP0,"Ear, nose, throat, and oral cavity",Diseases of the nose,Nosebleed,●
+TBL-01-00-510,JlvnmP4,"Ear, nose, throat, and oral cavity",Diseases of the nose,Sinusitis (acute/chronic),●
+TBL-01-00-511,JlvnmQA,"Ear, nose, throat, and oral cavity",Diseases of the nose,Allergic rhinitis,●
+TBL-01-00-512,JlvnmQI,"Ear, nose, throat, and oral cavity",Diseases of the nose,Nasal inflammation,
+TBL-01-00-513,JlvnmQU,"Ear, nose, throat, and oral cavity",Diseases of the pharynx and larynx,Pharyngitis,●
+TBL-01-00-514,JlvnmQY,"Ear, nose, throat, and oral cavity",Diseases of the pharynx and larynx,Laryngitis,
+TBL-01-00-515,JlvnmQg,"Ear, nose, throat, and oral cavity",Diseases of the pharynx and larynx,Epiglottitis (including acute epiglottitis),
+TBL-01-00-516,JlvnmS0,"Ear, nose, throat, and oral cavity",Diseases of the pharynx and larynx,Vocal cord polyp,
+TBL-01-00-517,JlvnmQM,"Ear, nose, throat, and oral cavity",Diseases of the pharynx and larynx,Tonsillitis,
+TBL-01-00-518,JlvnmQk,"Ear, nose, throat, and oral cavity",Diseases of the pharynx and larynx,Peritonsillitis,
+TBL-01-00-519,JlvnmQs,"Ear, nose, throat, and oral cavity",Diseases of the pharynx and larynx,Peritonsillar abscess,
+TBL-01-00-520,JlvnmSo,"Ear, nose, throat, and oral cavity",Diseases of the pharynx and larynx,Tonsillar hypertrophy of the palate,
+TBL-01-00-521,JlvnmQw,"Ear, nose, throat, and oral cavity",Diseases of the mouth,Dental caries,
+TBL-01-00-522,JlvnmQ4,"Ear, nose, throat, and oral cavity",Diseases of the mouth,"Periodontal diseases (including systemic effects and functions of the mouth (e.g., chewing, biting, clenching))",
+TBL-01-00-523,JlvnmQ8,"Ear, nose, throat, and oral cavity",Diseases of the mouth,Angular cheilitis,
+TBL-01-00-524,JlvnmRE,"Ear, nose, throat, and oral cavity",Diseases of the mouth,Stomatitis,
+TBL-01-00-525,JlvnmRM,"Ear, nose, throat, and oral cavity",Diseases of the mouth,Glossitis,
+TBL-01-00-526,JlvnmRo,"Ear, nose, throat, and oral cavity",Diseases of the mouth,Sialolithiasis,
+TBL-01-00-527,JlvnmTI,"Ear, nose, throat, and oral cavity",Diseases of the head and neck,"Cervical lymph node metastasis, etc.",●
+TBL-01-00-528,JlvnmRw,"Ear, nose, throat, and oral cavity",Diseases of the head and neck,Sjögren’s syndrome,
+TBL-01-00-529,JlvnmR8,"Ear, nose, throat, and oral cavity",Diseases of the head and neck,Temporomandibular joint dysfunction,
+TBL-01-00-530,JlvnmS4,"Ear, nose, throat, and oral cavity",Diseases of the head and neck,Cervical lymphadenitis,
+TBL-01-00-531,JlvnmTA,"Ear, nose, throat, and oral cavity",Diseases of the head and neck,Cervical abscess,
+TBL-01-00-532,JlvnmSU,"Ear, nose, throat, and oral cavity",Otorhinolaryngological and oral trauma/injury,"Eardrum damage, etc.",
+TBL-01-00-533,JlvnmSA,"Ear, nose, throat, and oral cavity",Otorhinolaryngological and oral trauma/injury,Nasal bone fracture,
+TBL-01-00-534,JlvnmSI,"Ear, nose, throat, and oral cavity",Otorhinolaryngological and oral trauma/injury,Blow-by-blow fracture,
+TBL-01-00-535,JlvnmRc,"Ear, nose, throat, and oral cavity",Other,"Typical foreign body in the ear canal and nasal cavity pharynx larynx trachea, esophagus",
+TBL-01-00-536,JlvnmT0,Psychiatry,Mood disorders and schizophrenia,Major depressive disorder,●
+TBL-01-00-537,JlvnmT4,Psychiatry,Mood disorders and schizophrenia,Bipolar disorder (manic-depressive illness),●
+TBL-01-00-538,JlvnmUA,Psychiatry,Mood disorders and schizophrenia,Schizophrenia,●
+TBL-01-00-539,JlvnmUw,Psychiatry,Neurotic and stress-related disorders,Psychogenic hyperventilation,
+TBL-01-00-540,JlvnmUQ,Psychiatry,Neurotic and stress-related disorders,Dissociative disorder,
+TBL-01-00-541,JlvnmUk,Psychiatry,Neurotic and stress-related disorders,Acute stress disorder,
+TBL-01-00-542,JlvnmUE,Psychiatry,Neurotic and stress-related disorders,Obsessive compulsive disorder,
+TBL-01-00-543,JlvnmUo,Psychiatry,Neurotic and stress-related disorders,Post-traumatic stress disorder,
+TBL-01-00-544,JlvnmUY,Psychiatry,Neurotic and stress-related disorders,"Somatic symptom disorder, pain disorder, hypochondriasis",●
+TBL-01-00-545,JlvnmUM,Psychiatry,Neurotic and stress-related disorders,"Anxiety disorders (panic disorder, social anxiety disorder)",
+TBL-01-00-546,JlvnmUc,Psychiatry,Physiological and physical factor-related disorders,Psychosomatic disorder,
+TBL-01-00-547,JlvnmU0,Psychiatry,Physiological and physical factor-related disorders,"Eating disorders (e.g., anorexia nervosa, bulimia nervosa)",
+TBL-01-00-548,JlvnmU8,Psychiatry,Developmental disorders,Personality disorders,
+TBL-01-00-549,Juyv-TA,Psychiatry,Developmental disorders,Autism spectrum disorder (ASD),
+TBL-01-00-550,Juyv-TM,Psychiatry,Developmental disorders,Attention deficit/hyperactivity disorder (ADHD),
+TBL-01-00-551,JlvnmTU,Psychiatry,"Organic mental disorders, etc.",Dementia,●
+TBL-01-00-552,JlvnmTg,Psychiatry,"Organic mental disorders, etc.","Addiction (illicit drugs, alcohol, gambling)",
+TBL-01-00-553,JlvnmTY,Psychiatry,"Organic mental disorders, etc.",Psychosis,
+TBL-01-00-554,Jo77KCc,Immunology and allergy,Allergic disease,Anaphylaxis,
+TBL-01-00-555,Jo77KCk,Immunology and allergy,Allergic disease,Food allergy,
+TBL-01-00-556,JmxLo08,Immunology and allergy,Allergic disease,Systemic allergic disease,
+TBL-01-00-557,JmxLo0Y,Immunology and allergy,Systemic connective tissue disease,Rheumatoid arthritis,●
+TBL-01-00-558,JlvnmW4,Immunology and allergy,Systemic connective tissue disease,Rheumatoid vasculitis with rheumatoid arthritis,
+TBL-01-00-559,JmxLo0c,Immunology and allergy,Systemic connective tissue disease,Adult-onset Still’s disease and juvenile idiopathic arthritis (JIA),
+TBL-01-00-560,JmxLo0g,Immunology and allergy,Systemic connective tissue disease,"Systemic lupus erythematosus (SLE) and complications (central nervous system lupus, lupus nephritis, and antiphospholipid antibody syndrome)",●
+TBL-01-00-561,JmxLo0k,Immunology and allergy,Systemic connective tissue disease,Systemic sclerosis,
+TBL-01-00-562,JmxLo0s,Immunology and allergy,Systemic connective tissue disease,Dermatomyositis and polymyositis,
+TBL-01-00-563,JmxLo0w,Immunology and allergy,Systemic connective tissue disease,Mixed connective/tissue disease,
+TBL-01-00-564,JmxLo00,Immunology and allergy,Systemic connective tissue disease,Sjögren’s syndrome,
+TBL-01-00-565,JmxLo04,Immunology and allergy,Systemic connective tissue disease,Behçet’s disease,
+TBL-01-00-566,JlvnmWI,Immunology and allergy,Vasculitis syndrome,Giant cell arteritis,
+TBL-01-00-567,JlvnmWM,Immunology and allergy,Vasculitis syndrome,Takayasu arteritis (aortitis syndrome),
+TBL-01-00-568,JlvnmWU,Immunology and allergy,Vasculitis syndrome,Polyarteritis nodosa,
+TBL-01-00-569,JlvnmWY,Immunology and allergy,Vasculitis syndrome,Microscopic polyangiitis,
+TBL-01-00-570,JlvnmWg,Immunology and allergy,Vasculitis syndrome,Granulomatosis with polyangiitis,
+TBL-01-00-571,JlvnmWk,Immunology and allergy,Vasculitis syndrome,Eosinophilic granulomatosis with polyangiitis,
+TBL-01-00-572,JlvnmWs,Immunology and allergy,Vasculitis syndrome,IgA vasculitis,●
+TBL-01-00-573,JlvnmW0,Immunology and allergy,Vasculitis syndrome,Kawasaki disease,●
+TBL-01-00-574,JlvnmXA,Immunology and allergy,Vasculitis syndrome,Anti-glomerular basement membrane disease (anti-GBM disease),
+TBL-01-00-575,JlvnmVE,Immunology and allergy,Spondyloarthropathies and related diseases,Ankylosing spondylitis,
+TBL-01-00-576,JlvnmVI,Immunology and allergy,Spondyloarthropathies and related diseases,Reactive arthritis,
+TBL-01-00-577,JlvnmVQ,Immunology and allergy,Spondyloarthropathies and related diseases,Psoriatic arthritis,
+TBL-01-00-578,JlvnmVU,Immunology and allergy,Spondyloarthropathies and related diseases,Pustulotic arthro-osteitis,
+TBL-01-00-579,JlvnmVg,Immunology and allergy,Other,Osteoarthritis,
+TBL-01-00-580,JlvnmVc,Immunology and allergy,Other,Crystal-induced arthritis,
+TBL-01-00-581,JlvnmVo,Immunology and allergy,Other,Polymyalgia rheumatica,
+TBL-01-00-582,JlvnmVs,Immunology and allergy,Other,Fibromyalgia,
+TBL-01-00-583,JlvnmV0,Immunology and allergy,Other,IgG4-related disease,
+TBL-01-00-584,JlvnmWA,Immunology and allergy,Other,Rheumatic fever,
+TBL-01-00-585,JmxLo1M,Immunology and allergy,Other,Autoinflammatory disease,
+TBL-01-00-586,JmxLo1A,Immunology and allergy,Other,Acquired immunodeficiency syndrome (AIDS),●
+TBL-01-00-587,JmxLo1E,Immunology and allergy,Other,Primary immunodeficiency syndrome,
+TBL-01-00-588,JmxLo1I,Immunology and allergy,Other,"Secondary immunodeficiency syndrome (due to malignancy, medically-induced, or autoimmune disease)",
+TBL-01-00-589,JlvnmXE,Infectious diseases,Community-acquired infection,Meningoencephalitis,●
+TBL-01-00-590,JlvnmXM,Infectious diseases,Community-acquired infection,Pharyngitis,
+TBL-01-00-591,JlvnmXY,Infectious diseases,Community-acquired infection,Bloodstream infection and infective endocarditis,●
+TBL-01-00-592,JlvnmXc,Infectious diseases,Community-acquired infection,Pneumonia (typical/atypical),●
+TBL-01-00-593,JlvnmXk,Infectious diseases,Community-acquired infection,Intra-abdominal infection,
+TBL-01-00-594,JlvnmXo,Infectious diseases,Community-acquired infection,Cystitis/pyelonephritis,●
+TBL-01-00-595,JlvnmXw,Infectious diseases,Community-acquired infection,Skin and soft tissue infection,
+TBL-01-00-596,JlvnmX0,Infectious diseases,Community-acquired infection,Septic arthritis,
+TBL-01-00-597,JlvnmX4,Infectious diseases,Healthcare-associated infection,Intravascular indwelling catheter-related infection,●
+TBL-01-00-598,JlvnmX8,Infectious diseases,Healthcare-associated infection,Catheter-associated urinary tract infection,●
+TBL-01-00-599,JlvnmYE,Infectious diseases,Healthcare-associated infection,Healthcare-associated pneumonia and ventilator-associated pneumonia,
+TBL-01-00-600,JlvnmYI,Infectious diseases,Healthcare-associated infection,Surgical site infection,●
+TBL-01-00-601,JlvnmYQ,Infectious diseases,Healthcare-associated infection,Clostridioides difficile infection,
+TBL-01-00-602,JlvnmYU,Infectious diseases,Immunosuppressive conditions,Diabetes mellitus,
+TBL-01-00-603,JlvnmYc,Infectious diseases,Immunosuppressive conditions,Renal diseases,
+TBL-01-00-604,JlvnmYg,Infectious diseases,Immunosuppressive conditions,Liver diseases,
+TBL-01-00-605,JlvnmYo,Infectious diseases,Immunosuppressive conditions,Cancer/hematological diseases,
+TBL-01-00-606,JlvnmYs,Infectious diseases,Immunosuppressive conditions,Neutropenia,
+TBL-01-00-607,JlvnmY0,Infectious diseases,Immunosuppressive conditions,Immunosuppressant use,
+TBL-01-00-608,JlvnmY8,Infectious diseases,Immunosuppressive conditions,HIV and AIDS,
+TBL-01-00-609,JlvnmZA,Infectious diseases,Immunosuppressive conditions,Organ transplant,
+TBL-01-00-610,JlvnmZI,Infectious diseases,Vaccine-preventable diseases,Measles,
+TBL-01-00-611,JlvnmZM,Infectious diseases,Vaccine-preventable diseases,Rubella,
+TBL-01-00-612,JlvnmZU,Infectious diseases,Vaccine-preventable diseases,Mumps,
+TBL-01-00-613,JlvnmZY,Infectious diseases,Vaccine-preventable diseases,Chickenpox,
+TBL-01-00-614,JlvnmZg,Infectious diseases,Vaccine-preventable diseases,Hepatitis B,
+TBL-01-00-615,JlvnmZk,Infectious diseases,Vaccine-preventable diseases,Haemophilus influenzae,
+TBL-01-00-616,JuywAhI,Infectious diseases,Vaccine-preventable diseases,Human papillomavirus,
+TBL-01-00-617,JlvnmZs,Infectious diseases,Vaccine-preventable diseases,Pneumococcus (Streptococcus pneumoniae),
+TBL-01-00-618,JlvnmZ0,Infectious diseases,Vaccine-preventable diseases,Tetanus and diphtheria,
+TBL-01-00-619,JlvnmZ4,Infectious diseases,Vaccine-preventable diseases,Influenza,
+TBL-01-00-620,JlvnmaA,Infectious diseases,Vaccine-preventable diseases,COVID-19,
+TBL-01-00-621,JlvnmaE,Cancers and neoplastic diseases,"Hematologic, hematopoietic, and lymphatic systems",Acute leukemia,●
+TBL-01-00-622,JlvnmaM,Cancers and neoplastic diseases,"Hematologic, hematopoietic, and lymphatic systems",Chronic myeloid leukemia,
+TBL-01-00-623,JlvnmaQ,Cancers and neoplastic diseases,"Hematologic, hematopoietic, and lymphatic systems",Myelodysplastic syndrome,
+TBL-01-00-624,JlvnmaY,Cancers and neoplastic diseases,"Hematologic, hematopoietic, and lymphatic systems",Adult T-cell leukemia,
+TBL-01-00-625,Jlvnmac,Cancers and neoplastic diseases,"Hematologic, hematopoietic, and lymphatic systems",Polycythemia vera,
+TBL-01-00-626,Jlvnmak,Cancers and neoplastic diseases,"Hematologic, hematopoietic, and lymphatic systems",Essential thrombocythemia,
+TBL-01-00-627,Jlvnmao,Cancers and neoplastic diseases,"Hematologic, hematopoietic, and lymphatic systems",Myelofibrosis,
+TBL-01-00-628,Jlvnmas,Cancers and neoplastic diseases,"Hematologic, hematopoietic, and lymphatic systems",Malignant lymphoma,
+TBL-01-00-629,Jlvnmaw,Cancers and neoplastic diseases,"Hematologic, hematopoietic, and lymphatic systems",Multiple myeloma,
+TBL-01-00-630,Jlvnma4,Cancers and neoplastic diseases,Nervous system,Glioblastoma,
+TBL-01-00-631,Jlvnma8,Cancers and neoplastic diseases,Nervous system,Meningioma,
+TBL-01-00-632,JlvnmbE,Cancers and neoplastic diseases,Nervous system,Schwannoma,
+TBL-01-00-633,JlvnmbI,Cancers and neoplastic diseases,Nervous system,Metastatic brain tumor,
+TBL-01-00-634,JlvnmbQ,Cancers and neoplastic diseases,Dermatological system,Basal cell carcinoma,
+TBL-01-00-635,JlvnmbU,Cancers and neoplastic diseases,Dermatological system,Cutaneous squamous cell carcinoma,
+TBL-01-00-636,Jlvnmbc,Cancers and neoplastic diseases,Dermatological system,Malignant melanoma,
+TBL-01-00-637,Jlvnmbg,Cancers and neoplastic diseases,Dermatological system,Malignant lymphoma,
+TBL-01-00-638,Jlvnmbo,Cancers and neoplastic diseases,Musculoskeletal system,Osteosarcoma,
+TBL-01-00-639,Jlvnmbs,Cancers and neoplastic diseases,Musculoskeletal system,Chondrosarcoma,
+TBL-01-00-640,Jlvnmb0,Cancers and neoplastic diseases,Musculoskeletal system,Ewing’s sarcoma,
+TBL-01-00-641,Jlvnmb8,Cancers and neoplastic diseases,Musculoskeletal system,Metastatic spinal tumors,
+TBL-01-00-642,JlvnmcA,Cancers and neoplastic diseases,Cardiovascular system,Myxedema,
+TBL-01-00-643,JlvnmcI,Cancers and neoplastic diseases,Respiratory system,Lung cancer,●
+TBL-01-00-644,JlvnmcM,Cancers and neoplastic diseases,Respiratory system,Pleural mesothelioma,
+TBL-01-00-645,JlvnmcU,Cancers and neoplastic diseases,Respiratory system,Metastatic lung cancer,
+TBL-01-00-646,JlvnmcY,Cancers and neoplastic diseases,Respiratory system,Mediastinal tumor (containing thymoma),
+TBL-01-00-647,Jlvnmcg,Cancers and neoplastic diseases,Digestive system,Esophageal cancer,●
+TBL-01-00-648,Jlvnmco,Cancers and neoplastic diseases,Digestive system,Gastric cancer,●
+TBL-01-00-649,Jlvnmcs,Cancers and neoplastic diseases,Digestive system,Colon polyp,
+TBL-01-00-650,Jlvnmc0,Cancers and neoplastic diseases,Digestive system,Colorectal cancer,●
+TBL-01-00-651,Jlvnmc4,Cancers and neoplastic diseases,Digestive system,Gallbladder cancer and bile duct cancer,
+TBL-01-00-652,JlvnmdA,Cancers and neoplastic diseases,Digestive system,Primary liver cancer,●
+TBL-01-00-653,JlvnmdE,Cancers and neoplastic diseases,Digestive system,Pancreatic neuroendocrine tumor,
+TBL-01-00-654,JlvnmdM,Cancers and neoplastic diseases,Digestive system,Cystic pancreatic tumors,
+TBL-01-00-655,JlvnmdQ,Cancers and neoplastic diseases,Digestive system,Pancreatic cancer,●
+TBL-01-00-656,JlvnmdY,Cancers and neoplastic diseases,Renal and urinary system,Kidney cancer,●
+TBL-01-00-657,Jlvnmdg,Cancers and neoplastic diseases,Renal and urinary system,"Cancer of the renal pelvis and ureter, bladder cancer",●
+TBL-01-00-658,Jlvnmdk,Cancers and neoplastic diseases,Reproductive system,Prostate cancer,●
+TBL-01-00-659,Jlvnmds,Cancers and neoplastic diseases,Reproductive system,Testicular tumor,
+TBL-01-00-660,Jlvnmdw,Cancers and neoplastic diseases,Reproductive system,Cervical cancer,●
+TBL-01-00-661,Jlvnmd4,Cancers and neoplastic diseases,Reproductive system,Uterine cancer (endometrial cancer),●
+TBL-01-00-662,JlvnmeA,Cancers and neoplastic diseases,Reproductive system,Ovarian tumor,●
+TBL-01-00-663,JlvnmeM,Cancers and neoplastic diseases,Reproductive system,Choriocarcinoma,
+TBL-01-00-664,JlvnmeE,Cancers and neoplastic diseases,Reproductive system,Hydatidiform mole,
+TBL-01-00-665,JlvnmeQ,Cancers and neoplastic diseases,Breast,Primary breast cancer,●
+TBL-01-00-666,JlvnmeY,Cancers and neoplastic diseases,Breast,Fibroadenoma,
+TBL-01-00-667,Jlvnmec,Cancers and neoplastic diseases,Breast,Mastopathy,
+TBL-01-00-668,Jlvnmeo,Cancers and neoplastic diseases,"Endocrine, nutritional, and metabolic system",Adenomatous goiter,
+TBL-01-00-669,Jlvnmek,Cancers and neoplastic diseases,"Endocrine, nutritional, and metabolic system",Pituitary tumor,
+TBL-01-00-670,Jlvnmew,Cancers and neoplastic diseases,"Endocrine, nutritional, and metabolic system",Thyroid cancer,
+TBL-01-00-671,Jlvnme0,Cancers and neoplastic diseases,"Endocrine, nutritional, and metabolic system",Pheochromocytoma,
+TBL-01-00-672,Jlvnme4,Cancers and neoplastic diseases,"Endocrine, nutritional, and metabolic system",Multiple endocrine neoplasia,
+TBL-01-00-673,Jlvnme8,Cancers and neoplastic diseases,Ocular and visual system,Retinoblastoma,
+TBL-01-00-674,JlvnmfE,Cancers and neoplastic diseases,"Ear, nose, throat, and oral cavity",Tongue cancer,
+TBL-01-00-675,JlvnmfI,Cancers and neoplastic diseases,"Ear, nose, throat, and oral cavity",Pharyngeal cancer,
+TBL-01-00-676,JlvnmfQ,Cancers and neoplastic diseases,"Ear, nose, throat, and oral cavity",Larynx cancer,
+TBL-01-00-677,JlvnmfU,Cancers and neoplastic diseases,Pediatrics,Brain tumor,
+TBL-01-00-678,Jlvnmfc,Cancers and neoplastic diseases,Pediatrics,Hematologic cancers,
+TBL-01-00-679,Jlvnmfg,Cancers and neoplastic diseases,Pediatrics,Retinoblastoma,
+TBL-01-00-680,Jlvnmfo,Cancers and neoplastic diseases,Pediatrics,Neuroblastoma,
+TBL-01-00-681,Jlvnmfs,Cancers and neoplastic diseases,Pediatrics,Nephroblastoma,
+TBL-01-00-682,Jlvnmf0,Cancers and neoplastic diseases,Pediatrics,Hepatoblastoma,
+TBL-01-00-683,Jlvnmf4,Cancers and neoplastic diseases,Pediatrics,"Germ cell tumors, including teratomas",
+TBL-01-00-684,Jlvnmf8,Cancers and neoplastic diseases,Hereditary cancers,Familial adenomatous polyposis,
+TBL-01-00-685,JlvnmgA,Cancers and neoplastic diseases,Hereditary cancers,Hereditary breast and ovarian cancer syndrome,
+TBL-01-00-686,JlvnmgI,Cancers and neoplastic diseases,Hereditary cancers,Hereditary nonpolyposis colorectal cancer (Lynch syndrome),
+TBL-01-00-687,JlvnmgM,Cancers and neoplastic diseases,Hereditary cancers,Li–Fraumeni syndrome,
+TBL-01-00-688,JlvnmgU,Cancers and neoplastic diseases,Oncology emergencies,Spinal cord compression by metastatic tumor,
+TBL-01-00-689,JlvnmgY,Cancers and neoplastic diseases,Oncology emergencies,Tumor lysis syndrome,
+TBL-01-00-690,Jlvnmgg,Cancers and neoplastic diseases,Oncology emergencies,Superior vena cava syndrome,
+TBL-01-00-691,Jlvnmgk,Cancers and neoplastic diseases,Oncology emergencies,Tumor-induced metabolic disorders,
+TBL-01-00-692,Jlvnmgs,Cancers and neoplastic diseases,Oncology emergencies,Adverse events due to treatment,
