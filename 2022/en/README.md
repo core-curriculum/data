@@ -1,52 +1,55 @@
 English Translation:
 
-Medical Education Model Core Curriculum
+# Medical Education Model Core Curriculum
 
-Electronic data of the Medical Education Model Core Curriculum (Revised Edition of 2023).
+Electronic data of the [Medical Education Model Core Curriculum (Revised Edition of 2023)](https://www.mext.go.jp/b_menu/shingi/chousa/koutou/116/toushin/mext_01280.html).
 
-Contents Published in This Repository
+## Contents Published in This Repository
 
-This repository contains data created by the research team of the Japan Society for Medical Education, a general incorporated association, which was selected for the Ministry of Education, Culture, Sports, Science and Technology's "Research and Study on the Status of Medical Personnel Training in Universities" project. The data is based on the Medical Education Model Core Curriculum (Revised Edition of 2023) (hereinafter referred to as "Core Curriculum").
+This repository contains data created by the research team of the Japan Society for Medical Education, a general incorporated association, which was selected for the Ministry of Education, Culture, Sports, Science and Technology's "Research and Study on the Status of Medical Personnel Training in Universities" project. The data is based on the [Medical Education Model Core Curriculum (Revised Edition of 2023)](https://www.mext.go.jp/b_menu/shingi/chousa/koutou/116/toushin/mext_01280.html) (hereinafter referred to as "Core Curriculum").
 
-The content published as the Core Curriculum (PDF version) is made available in more accessible formats (data versions), such as CSV and Markdown.
+The content published as the [Core Curriculum](https://www.mext.go.jp/b_menu/shingi/chousa/koutou/116/toushin/mext_01280.html) (PDF version) is made available in more accessible formats (data versions), such as CSV and Markdown.
 
 Currently, only parts equivalent to Chapters 1 and 2 of the PDF version are posted, but other chapters will be added in the future.
 
-Why is this project necessary?
+## Why is this project necessary?
 
 PDF is an excellent format for producing print materials with high reproducibility and readability. However, extracting data from PDFs for use in statistical processing and research is challenging.
 
 To utilize the Core Curriculum in the following areas, a file format that is more easily processed as data is necessary. Distributing the data in formats such as CSV and Markdown, which are compatible with data processing, enables the following applications:
 
-Collection and analysis of education program information at each university (Institutional Research)
-Development of electronic syllabi and evaluation systems
-Creation of electronic books and websites for the dissemination of the Core Curriculum
-File Formats
+- Collection and analysis of education program information at each university ([Institutional Research](https://doi.org/10.24489/jjphe.2018-012))
+- Development of electronic syllabi and evaluation systems
+- Creation of electronic books and websites for the dissemination of the Core Curriculum
+
+## File Formats
 
 The data in this repository is primarily distributed in the following file formats. Unless otherwise stated, the character encoding is UTF-8 (without BOM), except for CSV files, which are UTF-8 (with BOM) for compatibility with Excel.
 
-File Format	Character Encoding	Content
-CSV	UTF-8 (with BOM)	Tabular data (mainly Chapters 1 and 2)
-Markdown (.md)	UTF-8 (without BOM)	Document format data (other than above)
-BibLaTeX (.bib)	UTF-8 (without BOM)	References
-Differences between the PDF version and the data version
+| File Format | Character Encoding | Content |
+|-------------|--------------------|---------|
+| CSV         | UTF-8 (with BOM)   | Tabular data (mainly Chapters 1 and 2) |
+| Markdown (.md) | UTF-8 (without BOM) | Document format data (other than above) |
+| BibLaTeX (.bib) | UTF-8 (without BOM) | References |
+
+## Differences between the PDF version and the data version
 
 Due to the following reasons, there are differences between the PDF version and the data version in this repository:
 
-Ensuring strict data accuracy
-Maintaining the same data structure for both the English and Japanese versions
-Preventing errors caused by Japanese characters in certain applications
-Differences due to data formats
+- Ensuring strict data accuracy
+- Maintaining the same data structure for both the English and Japanese versions
+- Preventing errors caused by Japanese characters in certain applications
+- Differences due to data formats
 
 These differences include:
 
-CSV column names consist entirely of alphanumeric characters and some symbols
-IDs not mentioned in the PDF version are assigned to all items
-To uniquely identify each item
-To strictly demonstrate the relationships between items
-Changes have been made due to differences in data formats, such as:
-In CSV files, slashes and boldface are expressed using Markdown formatting
-In "Chapter 2: Qualities and Abilities," references to tables are written using the [Pandoc Markdown format](https://pandoc-doc-ja.readthedocs.io/ja/latest/users-guide.html#tables) for easier processing.
+- CSV column names consist entirely of alphanumeric characters and some symbols
+- [IDs](#indexes-and-ids) not mentioned in the PDF version are assigned to all items
+    - To uniquely identify each item
+    - To strictly demonstrate the relationships between items
+- Changes have been made due to differences in data formats, such as:
+    - In CSV files, slashes and boldface are expressed using Markdown formatting
+    - In "Chapter 2: Qualities and Abilities," references to tables are written using the [Pandoc Markdown format](https://pandoc-doc-ja.readthedocs.io/ja/latest/users-guide.html#tables) for easier processing.
 
 Despite these differences, the content of the data version is consistent with the content of the PDF version.
 
