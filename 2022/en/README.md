@@ -1,5 +1,3 @@
-English Translation:
-
 # Medical Education Model Core Curriculum
 
 Electronic data of the [Medical Education Model Core Curriculum (Revised Edition of 2023)](https://www.mext.go.jp/b_menu/shingi/chousa/koutou/116/toushin/mext_01280.html).
