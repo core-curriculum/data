@@ -70,14 +70,14 @@ Indexes are relatively easy to understand since they are sequential, but if item
 
 ### Qualities & Abilities (Chapter 1 & Chapter 2)
 
-In the Core Curriculum, qualities and abilities are hierarchically represented from the largest first layer to the smallest and most detailed fourth layer. Qualities and abilities are stored in [2022/ja/outcomes](2022/ja/outcomes).
+In the Core Curriculum, qualities and abilities are hierarchically represented from the largest first layer to the smallest and most detailed fourth layer. Qualities and abilities are stored in [outcomes](outcomes).
 
 | File | Contents |
 |-|-|
-| [layer1.csv](2022/ja/outcomes/layer1.csv) | First layer of qualities & abilities |
-| [layer2.csv](2022/ja/outcomes/layer2.csv) | Second layer of qualities & abilities |
-| [layer3.csv](2022/ja/outcomes/layer3.csv) | Third layer of qualities & abilities |
-| [layer4.csv](2022/ja/outcomes/layer4.csv) | Fourth layer of qualities & abilities |
+| [layer1.csv](outcomes/layer1.csv) | First layer of outcomes |
+| [layer2.csv](outcomes/layer2.csv) | Second layer of outcomes |
+| [layer3.csv](outcomes/layer3.csv) | Third layer of outcomes |
+| [layer4.csv](outcomes/layer4.csv) | Fourth layer of outcomes |
 
 The columns in each CSV file are as follows:
 
@@ -92,9 +92,9 @@ The columns in each CSV file are as follows:
 
 ### Separate Tables (Chapter 1 & Chapter 2)
 
-In Chapter 1 and Chapter 2, some content is extracted as separate tables. These tables are referenced in the [layer3.csv](2022/ja/outcomes/layer3.csv) or [layer4.csv](2022/ja/outcomes/layer4.csv) files in the format of [@TBL:TBLxxxx]. The table data is stored in [2022/ja/tables](2022/ja/tables).
+In Chapter 1 and Chapter 2, some content is extracted as separate tables. These tables are referenced in the [layer3.csv](outcomes/layer3.csv) or [layer4.csv](outcomes/layer4.csv) files in the format of [@TBL:TBLxxxx]. The table data is stored in [tables](tables).
 
-The list of tables and the data for each table are expressed in the [index.csv](2022/ja/tables/index.csv) file in the above folder as follows:
+The list of tables and the data for each table are expressed in the [index.csv](tables/index.csv) file in the above folder as follows:
 
 | Column | Contents |
 |-|-|
@@ -107,7 +107,7 @@ The list of tables and the data for each table are expressed in the [index.csv](
 | columns | Correspondence between the column names in the PDF version |
 | main | Column name for the main item in the table |
 
-The table data is stored in the [2022/ja/tables](2022/ja/tables) folder with the specified filename. Unlike the PDF version, each item in the table is assigned an [index](#indexes-and-ids) and an [ID](#indexes-and-ids). The column names are alphanumeric. The correspondence between the column names in the PDF version is listed in the columns column. For example, in [TBL0202.csv](2022/ja/tables/TBL0202.csv), there are columns for category and item in addition to index and ID. The [index.csv](2022/ja/tables/index.csv) file lists "category:分類,item:項目名" in the columns column, so it can be understood that category corresponds to the classification in the PDF version and item corresponds to the item name in the PDF version.
+The table data is stored in the [tables](tables) folder with the specified filename. Unlike the PDF version, each item in the table is assigned an [index](#indexes-and-ids) and an [ID](#indexes-and-ids). The column names are alphanumeric. The correspondence between the column names in the PDF version is listed in the columns column. For example, in [TBL0202.csv](tables/TBL0202.csv), there are columns for category and item in addition to index and ID. The [index.csv](tables/index.csv) file lists "category:Classification,item:Items" in the columns column, so it can be understood that category corresponds to the classification in the PDF version and item corresponds to the item name in the PDF version.
 
 ### Other Data
 
