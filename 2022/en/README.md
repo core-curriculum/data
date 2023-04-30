@@ -53,43 +53,67 @@ Despite these differences, the content of the data version is consistent with th
 
 ## Indexes and IDs
 
-In the data version, unique IDs are assigned to each item in the Core Curriculum to ensure accurate identification and to demonstrate the relationships between items. The IDs consist of alphanumeric characters and symbols.
+In the PDF version, **indexes** such as PR-01-02 and GE-02-01-01 are assigned at the beginning of Chapter 1 and Chapter 2 for qualities and abilities. Indexes are assigned sequentially for each item, corresponding to pages in a book.
 
-The IDs are assigned as follows:
+In the data version, **IDs** are assigned to the qualities and abilities in Chapter 1 and Chapter 2, as well as to the separate tables and documents. IDs are unique identifiers expressed as URL-safe strings of a-zA-Z_- characters, generated from Unix timestamps (elapsed time since January 1, 1970, with 10-millisecond accuracy) at the time of item creation.
 
-- Core Curriculum: CC
-- Part: P[part number]
-- Chapter: C[chapter number]
-- Section: S[section number]
-- Table: T[table number]
+Indexes are relatively easy to understand since they are sequential, but if items are deleted or added in the future, the items that indexes point to may change. IDs will always point to the same item, even if items are deleted or added in the future. It is recommended to use IDs instead of indexes for precise data analysis and system creation.
 
-Examples of ID assignment:
+| | Indexes | IDs |
+|--|--|--|
+| Listed in the PDF version | Yes | No |
+| Assigned to | Qualities & Abilities | Qualities & Abilities, Separate Tables, Documents |
+| May change due to revisions | Yes | No |
+| Readability | ○ | × |
 
-- Core Curriculum ID: CC
-- Part 1 ID: P1
-- Chapter 1 ID: P1C1
-- Section 1.1 ID: P1C1S1
-- Table 1.1 ID: P1C1S1T1
+## Data Formats
 
-## How to Use the Data
+### Qualities & Abilities (Chapter 1 & Chapter 2)
 
-You can use the data in this repository for various purposes, such as data analysis, creating electronic syllabi, and developing evaluation systems. To do so, download the data in the desired file format (CSV, Markdown, or BibLaTeX) and import it into your preferred application.
+In the Core Curriculum, qualities and abilities are hierarchically represented from the largest first layer to the smallest and most detailed fourth layer. Qualities and abilities are stored in [2022/ja/outcomes](2022/ja/outcomes).
 
-Please note that when using this data, you should follow the terms specified in the [license](#license) section below.
+| File | Contents |
+|-|-|
+| [layer1.csv](2022/ja/outcomes/layer1.csv) | First layer of qualities & abilities |
+| [layer2.csv](2022/ja/outcomes/layer2.csv) | Second layer of qualities & abilities |
+| [layer3.csv](2022/ja/outcomes/layer3.csv) | Third layer of qualities & abilities |
+| [layer4.csv](2022/ja/outcomes/layer4.csv) | Fourth layer of qualities & abilities |
+
+The columns in each CSV file are as follows:
+
+| Column | Existing Layer | Contents |
+|-|-|-|
+| index | First to Fourth layer | [Indexes](#indexes-and-ids) same as the PDF version |
+| id | First to Fourth layer | Unique [IDs](#indexes-and-ids) for each item |
+| spell | First layer | Correspondence between two-letter alphabets and qualities & abilities names |
+| item | First to Fourth layer | Contents of the relevant item |
+| description | First and Second layer | Overview of qualities & abilities |
+| parent | Second and Third layer | Parent layer's [ID](#indexes-and-ids) (Second layer has First layer, Third layer has Second layer) |
+
+### Separate Tables (Chapter 1 & Chapter 2)
+
+In Chapter 1 and Chapter 2, some content is extracted as separate tables. These tables are referenced in the [layer3.csv](2022/ja/outcomes/layer3.csv) or [layer4.csv](2022/ja/outcomes/layer4.csv) files in the format of [@TBL:TBLxxxx]. The table data is stored in [2022/ja/tables](2022/ja/tables).
+
+The list of tables and the data for each table are expressed in the [index.csv](2022/ja/tables/index.csv) file in the above folder as follows:
+
+| Column | Contents |
+|-|-|
+| id | [ID](#indexes-and-ids) for the table itself |
+| index | [Index](#indexes-and-| index | Index for the table itself (not listed in the PDF version) |
+| item | Table name |
+| file | Filename where the table data is stored |
+| legend | Explanation of the table |
+| number | Table number |
+| columns | Correspondence between the column names in the PDF version |
+| main | Column name for the main item in the table |
+
+The table data is stored in the [2022/ja/tables](2022/ja/tables) folder with the specified filename. Unlike the PDF version, each item in the table is assigned an [index](#indexes-and-ids) and an [ID](#indexes-and-ids). The column names are alphanumeric. The correspondence between the column names in the PDF version is listed in the columns column. For example, in [TBL0202.csv](2022/ja/tables/TBL0202.csv), there are columns for category and item in addition to index and ID. The [index.csv](2022/ja/tables/index.csv) file lists "category:分類,item:項目名" in the columns column, so it can be understood that category corresponds to the classification in the PDF version and item corresponds to the item name in the PDF version.
+
+### Other Data
+
+- [2016 Core Curriculum (平成28年版コアカリ)](2016)
+- [Correspondence between the 2016 Core Curriculum and the 2022 Core Curriculum (令和4年版コアカリ)](relations/y2016_to_y2022/)
 
 ## License
 
-The data in this repository is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), which allows you to:
-
-- Share (copy and redistribute the material in any medium or format)
-- Adapt (remix, transform, and build upon the material for any purpose, even commercially)
-
-Under the following terms:
-
-- Attribution (you must give appropriate credit, provide a link to the license, and indicate if changes were made)
-
-Please refer to the [LICENSE](LICENSE) file for more information.
-
-## Acknowledgments
-
-This repository is the result of the efforts of the research team of the Japan Society for Medical Education, a general incorporated association, selected for the Ministry of Education, Culture, Sports, Science and Technology's "Research and Study on the Status of Medical Personnel Training in Universities" project. We would like to express our gratitude to everyone involved in the project and the creation of the Core Curriculum.
+When using the contents of this repository, please use them in accordance with the "Ministry of Education, Culture, Sports, Science and Technology Website Terms of Use" (https://www.mext.go.jp/b_menu/1351168.htm). ([License](./LICENSE))
