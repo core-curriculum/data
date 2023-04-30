@@ -62,13 +62,13 @@ Indexes are relatively easy to understand since they are sequential, but if item
 | | Indexes | IDs |
 |--|--|--|
 | Listed in the PDF version | Yes | No |
-| Assigned to | Qualities & Abilities | Qualities & Abilities, Separate Tables, Documents |
+| Assigned to | Outcomes | Outcomes, Separate Tables, Documents |
 | May change due to revisions | Yes | No |
 | Readability | ○ | × |
 
 ## Data Formats
 
-### Qualities & Abilities (Chapter 1 & Chapter 2)
+### Outcomes (Chapter 1 & Chapter 2)
 
 In the Core Curriculum, qualities and abilities are hierarchically represented from the largest first layer to the smallest and most detailed fourth layer. Qualities and abilities are stored in [outcomes](outcomes).
 
