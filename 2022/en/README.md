@@ -99,7 +99,7 @@ The list of tables and the data for each table are expressed in the [index.csv](
 | Column | Contents |
 |-|-|
 | id | [ID](#indexes-and-ids) for the table itself |
-| index | [Index](#indexes-and-| index | Index for the table itself (not listed in the PDF version) |
+| index | [Index](#indexes-and-ids) for the table itself (not listed in the PDF version) |
 | item | Table name |
 | file | Filename where the table data is stored |
 | legend | Explanation of the table |
