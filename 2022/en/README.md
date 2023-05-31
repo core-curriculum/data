@@ -84,7 +84,7 @@ The columns in each CSV file are as follows:
 | ----------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | index       | First to Fourth layer  | [Indexes](#indexes-and-ids) same as the PDF version                                                                                |
 | id          | First to Fourth layer  | Unique [ids](#indexes-and-ids) for each item                                                                                       |
-| spell       | First layer            | Correspondence between two-letter alphabets and names of Basic Qualities and Abilities(Basic Qualities and Abilities)              |
+| spell       | First layer            | Correspondence between two-letter alphabets and names of Basic Qualities and Abilities                                             |
 | item        | First to Fourth layer  | Contents of the relevant item                                                                                                      |
 | description | First and Second layer | Overview of Basic Qualities and Abilities                                                                                          |
 | parent      | Second to Force layer  | Parent layer's [id](#indexes-and-ids) (Second layer for First layer, Third layer fo Second layer, and Forth layer for Third layer) |
