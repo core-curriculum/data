@@ -26,7 +26,7 @@ The data in this repository is primarily distributed in the following formats. I
 
 | Formats of file | Character Encoding  | Content                                 |
 | --------------- | ------------------- | --------------------------------------- |
-| CSV             | UTF-8 (with BOM)    | Tabular data (mainly Chapters 1 and 2)  |
+| CSV             | UTF-8 (with BOM)    | Table data (mainly Chapters 1 and 2)    |
 | Markdown (.md)  | UTF-8 (without BOM) | Document format data (other than above) |
 | BibLaTeX (.bib) | UTF-8 (without BOM) | References                              |
 
@@ -45,7 +45,7 @@ Due to these reasons, there are differences between the PDF version and the data
     - To strictly demonstrate the relationships between items
 - Changes have been made due to differences in data formats, such as:
     - In CSV files, slashes and boldface are expressed using Markdown formatting
-    - In "Chapter 2: Learning Objectives," references to tables are written using the [Pandoc Markdown format](https://pandoc-doc-ja.readthedocs.io/ja/latest/users-guide.html#tables) for easier processing.
+    - In "Chapter 2: Learning Objectives," references to tables are written using the [Pandoc Markdown format](https://pandoc.org/MANUAL.html#pandocs-markdown) for easier processing.
     - The reference citations are not directly included in the document but are referenced from the contents of the "citations.bib" file instead. 
     - In Markdown, elements such as boxed or framed text cannot be directly expressed are converted into different formats.
 
@@ -56,27 +56,27 @@ In the PDF version, indexes such as PR-01-02 and GE-02-01-01 are assigned at the
 
 In the data version, **ids** are assigned to the learning objectives in Chapter 1 and Chapter 2, as well as to the tables and documents. ids are unique identifiers expressed as URL-safe strings of a-zA-Z_- characters, generated from Unix timestamps (elapsed time since January 1, 1970, with 10-millisecond accuracy) at the time of item creation.
 
-Indexes are relatively easy to understand since they are sequential, however, if items are deleted or added in the future, the items that indexes correspond may change. ids will always correspond the same items, even if items are deleted or added in the future. It is recommended to use ids instead of indexes for precise data analysis and system creation.
+Indexes are relatively easy to understand since they are sequential, however, if items are deleted or added in the future, the items that indexes correspond may change. ids will always correspond the same items, even if items are deleted or added in the future. It is **recommended to use ids** instead of indexes for precise data analysis and system creation.
 
-|                                           | Indexes                                            | ids                                                                            |
-| ----------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Listed in the PDF version                 | Yes                                                | No                                                                             |
-| Assigned items                            | Basic Qualities and Abilities, Learning objectives | Basic Qualities and Abilities, Learning objectives, Separate Tables, Documents |
-| Possibilities for change due to revisions | Yes                                                | No                                                                             |
-| Readability                               | good                                               | poor                                                                           |
+|                                           | Indexes             | ids                                   |
+| ----------------------------------------- | ------------------- | ------------------------------------- |
+| Listed in the PDF version                 | Yes                 | No                                    |
+| Assigned items                            | Learning objectives | Learning objectives,Tables, Documents |
+| Possibilities for change due to revisions | Yes                 | No                                    |
+| Readability                               | good                | poor                                  |
 
 ## Data Formats
 
 ### Basic Qualities and Abilities, and Learning objectives (Chapter 1 & Chapter 2)
 
-In the Model Core Curriculum, Basic Qualities and Abilities, and Learning objectives are hierarchically represented from the largest first layer to the smallest and most detailed fourth layer. Basic Qualities and Abilities, and Learning objectives are stored in [outcomes](outcomes).
+In the Model Core Curriculum, Learning objectives are hierarchically represented from the largest first layer to the smallest and most detailed fourth layer. Learning objectives are stored in [outcomes](outcomes).
 
-| File                              | Contents                                     |
-| --------------------------------- | -------------------------------------------- |
-| [layer1.csv](outcomes/layer1.csv) | First layer of Basic Qualities and Abilities |
-| [layer2.csv](outcomes/layer2.csv) | Second layer of Learning objectives          |
-| [layer3.csv](outcomes/layer3.csv) | Third layer of Learning objectives           |
-| [layer4.csv](outcomes/layer4.csv) | Fourth layer of Learning objectives          |
+| File                              | Contents                            |
+| --------------------------------- | ----------------------------------- |
+| [layer1.csv](outcomes/layer1.csv) | First layer of Learning objectives  |
+| [layer2.csv](outcomes/layer2.csv) | Second layer of Learning objectives |
+| [layer3.csv](outcomes/layer3.csv) | Third layer of Learning objectives  |
+| [layer4.csv](outcomes/layer4.csv) | Fourth layer of Learning objectives |
 
 The columns in each CSV file are as follows:
 
@@ -84,7 +84,7 @@ The columns in each CSV file are as follows:
 | ----------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | index       | First to Fourth layer  | [Indexes](#indexes-and-ids) same as the PDF version                                                                                |
 | id          | First to Fourth layer  | Unique [ids](#indexes-and-ids) for each item                                                                                       |
-| spell       | First layer            | Correspondence between two-letter alphabets and names of Basic Qualities and Abilities                                             |
+| spell       | First layer            | Correspondence between two-letter alphabets and names of Basic Qualities and Abilities(Basic Qualities and Abilities)              |
 | item        | First to Fourth layer  | Contents of the relevant item                                                                                                      |
 | description | First and Second layer | Overview of Basic Qualities and Abilities                                                                                          |
 | parent      | Second to Force layer  | Parent layer's [id](#indexes-and-ids) (Second layer for First layer, Third layer fo Second layer, and Forth layer for Third layer) |
